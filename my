@@ -282,7 +282,8 @@ http://208.86.19.13:81/602.stream/index.m3u8
 http://ky-iptv.com:80/live/Harry1975/Harry1975/1116407.ts
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 http://ky-iptv.com:80/live/Harry1975/Harry1975/1116408.ts
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Fox Sports Cricket
+http://89.36.94.194:8080/live/christa/christa/425262.m3u8?token=TBdbWBBdEl4VAFJSC1INUVEGUgUBBlADAwlbAAIDUQsCAwsPAQJVVgAVHEZAFkdWUV45ClEXWAZUBApXBBhBRkRQQWYKURJeFQMJXAdbFx8SRw8OUBdYAkoTSAhSFlkRAAcFDVUXHEZST0QBQQxUX29XAxVcVgcQXF9NDVoYQVxZaldcDlReABUNElQRThdaQ0NEWVtADl5KE1oIQkYCR1IXCRtSAwFXFRsSB1wXW0dCSkRZF3cmEEoTXRlCUQ1AXlpdG1kXXVdCDxJIEQtGbEJWFRdHUANfA0MaWxQEQR8VWFJBPFZfCllSUxBaDVtAEglEUBcZQF8JX1EVWUY8Q15REQNBAgFcDgESGQ==
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Primeun League

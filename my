@@ -257,12 +257,14 @@ http://watchindia.net:8880/live/vvv/vvv/2176.ts
 http://iptv.hplink.com.bd:8080/hls/sports.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 #http://30.30.30.30/live/skyfeed2005/index.m3u8
-http://50.7.237.4:8080/PTVSPORTS/index.m3u8
+http://103.143.235.50:8080/ch2/ch2.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 #https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
 https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
+http://103.143.235.50:8080/ch5/ch5.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 http://172.17.50.112/live/antbd1005/index.m3u8
@@ -357,9 +359,7 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Franch
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
-rtmp://59.124.75.150/sat/tv731
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
-rtmp://59.124.75.150/sat/tv741
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" group-title="SPORTS",Ad Sports 2

@@ -259,17 +259,16 @@ http://watchindia.net:8880/live/vvv/vvv/2176.ts
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-http://103.158.2.18/iTV/video.m3u8
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
-#http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-http://51.11.183.183/c1/index.m3u8
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
 http://103.143.235.50:8080/ch5/ch5.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
-http://test-otv1.ftpbd.net/streams/119/index.m3u8
+http://103.158.2.18/iTV/video.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 https://ranapk.ml/Sony_Liv-4.m3u8
 
@@ -279,7 +278,6 @@ http://103.158.2.10:1935/live/ch-1/index.m3u8
 #http://103.143.235.50:8080/ch4/ch4.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
-
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 http://103.143.235.50:8080/ch2/ch2.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
@@ -287,7 +285,7 @@ http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 http://iptv.hplink.com.bd:8080/hls/sports.m3u8
-#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 http://45.125.220.129:81/play/a041
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/512

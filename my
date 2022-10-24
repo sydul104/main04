@@ -294,9 +294,13 @@ http://test-otv1.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://45.125.220.129:81/play/a041
 http://test-otv1.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports Hindi
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/2797
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/512
-#EXTINF:-133 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/512
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/2863
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/15705
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 http://watchindia.net:8880/live/vvv/vvv/2292.ts
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
@@ -333,20 +337,26 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
 http://ky-iptv.com:80/live/Harry1975/Harry1975/1116407.ts
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 http://ky-iptv.com:80/live/Harry1975/Harry1975/1116408.ts
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12921
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12986
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Primeun League
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12983
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Football
-http://watchindia.net:8880/live/vvv/vvv/2093.ts
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12982
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-1
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/26452
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/26443
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports HD
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-1
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-2
@@ -360,10 +370,12 @@ http://reaperhosting.club:8080/jeavo/qudojpek/574889
 http://reaperhosting.club:8080/jeavo/qudojpek/574884
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/33424
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/33424
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12892
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9275
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
+http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12890
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292

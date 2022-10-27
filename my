@@ -271,7 +271,8 @@ http://watchindia.net:8880/live/vvv/vvv/2176.ts
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-http://test-otv1.ftpbd.net/streams/119/index.m3u8
+#http://test-otv1.ftpbd.net/streams/119/index.m3u8
+http://tv.gundapanda.com:100/hls/netscope-1.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
@@ -285,8 +286,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-#http://103.158.2.10:1935/live/ch-1/index.m3u8
-http://103.143.235.50:8080/ch4/ch4.m3u8
+#http://103.143.235.50:8080/ch4/ch4.m3u8
+http://103.158.2.10:1935/live/ch-1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 

@@ -87,7 +87,8 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
-http://89.187.185.89:3232/ban-duronto/index.m3u8
+#http://89.187.185.89:3232/ban-duronto/index.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/12
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png" group-title="Kids", Cartoon Network English
@@ -107,10 +108,12 @@ http://50.7.237.4:8080/NICKELODEON/index.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/2613
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
-http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/1007
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD [Ar]
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
@@ -121,6 +124,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/6424
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -201,7 +205,7 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors
-http://30.30.30.30/live/skyfeed2008/index.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/24
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="Hindi",Star Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
@@ -213,7 +217,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold SD
-http://50.7.237.4:8080/STARGOLD2/index.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/27
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold-2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD
@@ -224,7 +228,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+http://xtream.efiberbd.net:25461/mkaua/stream/26
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
@@ -234,7 +239,8 @@ http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
-http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/25
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 
@@ -298,12 +304,12 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 http://103.143.235.50:8080/ch2/ch2.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
-http://iptv.hplink.com.bd:8080/hls/sports.m3u8
+#http://iptv.hplink.com.bd:8080/hls/sports.m3u8
+http://watchindia.net:8880/live/vvv/vvv/808.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports Hindi
-#http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/2797
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253668
+http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/512
 #http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/2863
@@ -312,6 +318,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/15705
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 http://watchindia.net:8880/live/vvv/vvv/2292.ts
+http://watchindia.net:8880/live/vvv/vvv/1072.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
 
@@ -322,26 +329,26 @@ http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9070
 https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png"group-title="SPORTS",Sony Ten 3 HD
-#http://watchindia.net:8880/live/vvv/vvv/1758.m3u8
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9071
 http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-141 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS",Sony Ten 4
 https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six SD
-#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
-http://test-otv1.ftpbd.net/streams/118/index.m3u8
+#http://watchindia.net:8880/live/vvv/vvv/2144.m3u8
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six HD
 https://tvs1.aynaott.com/SonySix/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 #http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
-http://watchindia.net:8880/live/vvv/vvv/2325.ts
+#http://watchindia.net:8880/live/vvv/vvv/2325.ts
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #http://208.86.19.13:81/602.stream/index.m3u8
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
-http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+http://103.157.249.125:201/play/a07c/index.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
@@ -377,17 +384,21 @@ http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160975
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-3
 
 #EXTINF:-1 tvg-logo="ht" group-title="SPORTS",BT-1
-http://reaperhosting.club:8080/jeavo/qudojpek/574894
+#http://reaperhosting.club:8080/jeavo/qudojpek/574894
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95052
 #EXTINF:-1 tvg-logo="ht" group-title="SPORTS",BT-2
-http://reaperhosting.club:8080/jeavo/qudojpek/574889
+#http://reaperhosting.club:8080/jeavo/qudojpek/574889
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95053
 #EXTINF:-1 tvg-logo="ht" group-title="SPORTS",BT-3
-http://reaperhosting.club:8080/jeavo/qudojpek/574884
+#http://reaperhosting.club:8080/jeavo/qudojpek/574884
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95055
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/33424
 http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12892
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9275
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9275
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
 http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/12890
 
@@ -396,6 +407,7 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 2  Premium
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -410,12 +422,11 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Franch
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Franch
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 MAX
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 MAX
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Franch
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Ad Sports 1

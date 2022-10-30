@@ -100,6 +100,7 @@ http://watchindia.net:8880/live/vvv/vvv/2182.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 http://50.7.237.4:8080/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Sonic-The-Hedgehog-Logo.png" group-title="Kids",Sonic
+http://xtream.efiberbd.net:25461/mkaua/stream/13
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids
 
 
@@ -173,8 +174,8 @@ http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-82 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="MUSIC",Bangla talkies
-#http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
 #http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
@@ -225,6 +226,8 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17917
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
 #http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8?token=test
 http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv World
+http://ip365.cx:900/8279091393/1687445016/400318022
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
@@ -277,8 +280,7 @@ http://watchindia.net:8880/live/vvv/vvv/2176.ts
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-#http://test-otv1.ftpbd.net/streams/119/index.m3u8
-http://tv.gundapanda.com:100/hls/netscope-1.m3u8
+http://xtream.efiberbd.net:25461/mkaua/stream/3
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
@@ -424,9 +426,10 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 MAX
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Franch
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Ad Sports 1
@@ -443,6 +446,12 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40882
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40884
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png",RO | DIGI SPORT 3 FHD
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40886
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS 2 FHD
+http://ip365.cx:900/8279091393/1687445016/376144
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png",NBC GOLF FHD
+http://ip365.cx:900/8279091393/1687445016/268281
 
 
 

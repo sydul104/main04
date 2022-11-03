@@ -317,7 +317,8 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 #http://test-otv1.ftpbd.net/streams/120/index.m3u8
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.143.235.50:8080/ch4/ch4.m3u8

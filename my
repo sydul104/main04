@@ -19,11 +19,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+https://tvs1.aynaott.com/news24/index.m3u8
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
-http://208.86.19.13:81/663.stream/index.m3u8
+#http://208.86.19.13:81/663.stream/index.m3u8
+https://tvs1.aynaott.com/atnnews/index.m3u8
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
@@ -156,9 +158,11 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha
 #http://watchindia.net:8880/live/vvv/vvv/2281.ts
+#https://tinyurl.com/tatasabbiriptv9
 http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
-http://208.86.19.13:81/609.stream/index.m3u8
+#http://208.86.19.13:81/609.stream/index.m3u8
+https://tinyurl.com/tatasabbiriptv10
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
 #http://watchindia.net:8880/live/vvv/vvv/2282.ts
 http://xtream.efiberbd.net:8080/live/mkaua/stream/8.m3u8
@@ -330,25 +334,32 @@ http://tvs.embedsite.xyz:1936/live/hdmi_ext_7/chunklist_w115904467_tkd293emF0b2t
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://iptv.hplink.com.bd:8080/hls/sports.m3u8
-http://watchindia.net:8880/live/vvv/vvv/808.m3u8
+#http://watchindia.net:8880/live/vvv/vvv/808.m3u8
+https://tinyurl.com/tatasabbiriptv16
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+https://tinyurl.com/tatasabbiriptv17
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports Hindi
-http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
+#http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
+https://tinyurl.com/tatasabbiriptv18
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/512
 #http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/2863
-http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
+https://tinyurl.com/tatasabbiriptv22
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
-http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/15705
+#http://superiptv1.com:2082/mahmoud-turk-iptv2021/Redmonkeytv.om/15705
+https://tinyurl.com/tatasabbiriptv23
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 #http://watchindia.net:8880/live/vvv/vvv/2292.ts
 #http://180.178.188.152:8000/play/a018
-http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2508/index.m3u8
+#http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2508/index.m3u8
+https://tinyurl.com/tatasabbiriptv14
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://180.178.188.152:8000/play/a019
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
-http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2507/index.m3u8
+#http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2507/index.m3u8
+https://tinyurl.com/tatasabbiriptv15
 
 #EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1 HD
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/588

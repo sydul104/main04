@@ -332,7 +332,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 #http://test-otv1.ftpbd.net/streams/120/index.m3u8
 #http://103.143.235.50:8080/ch2/ch2.m3u8
-http://tvs.embedsite.xyz:1936/live/hdmi_ext_7/chunklist_w115904467_tkd293emF0b2tlbmVuZHRpbWU9MTY2NzM3MDQ2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjczNjM0NjAmd293emF0b2tlbmhhc2g9bGRKM1NQVEhOTUpvZTc2MU1OMC02OHVRZ0M1Rncxd0s4Tjd5empWU2NKYz0=.m3u8
+#http://tvs.embedsite.xyz:1936/live/hdmi_ext_7/chunklist_w115904467_tkd293emF0b2tlbmVuZHRpbWU9MTY2NzM3MDQ2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjczNjM0NjAmd293emF0b2tlbmhhc2g9bGRKM1NQVEhOTUpvZTc2MU1OMC02OHVRZ0M1Rncxd0s4Tjd5empWU2NKYz0=.m3u8
+https://bdiptv2.tk/live/hls/EngvsSri/master.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://iptv.hplink.com.bd:8080/hls/sports.m3u8

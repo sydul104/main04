@@ -330,18 +330,21 @@ http://watchindia.net:8880/live/vvv/vvv/2176.ts
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
 #http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-http://103.157.249.125:201/play/a041/index.m3u8
+#http://103.157.249.125:201/play/a041/index.m3u8
+http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1667563200-now.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
-https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
+#https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
+https://fs.nowhdtime.com.bd/gtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+http://live.hplink.com.bd/streams/101/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
@@ -352,7 +355,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-https://bdiptv2.tk/live/hls/EngvsSri/master.m3u8
+#https://bdiptv2.tk/live/hls/EngvsSri/master.m3u8
+http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://iptv.hplink.com.bd:8080/hls/sports.m3u8

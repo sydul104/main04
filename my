@@ -329,7 +329,8 @@ http://watchindia.net:8880/live/vvv/vvv/2176.ts
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+#http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+http://103.157.249.125:201/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
@@ -411,12 +412,14 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
 https://tvs2.aynaott.com/asports/tracks-v1a1/mono.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253717
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+#http://iptvtree.net:8080/live/F17744/f01e18e2/279034.m3u8
+http://mains.vip:2086/live/craigg/1Lurn7m3F1/100783.m3u8
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
+http://iptvtree.net:8080/live/F17744/f01e18e2/157565.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253716
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Primeun League
@@ -425,17 +428,11 @@ http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253716
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160971
+http://iptvtree.net:8080/live/F17744/f01e18e2/11637.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
-#http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160972
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2700.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2704.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2703.m3u8
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160975
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports HD
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-1
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-2
@@ -456,8 +453,7 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
-#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
-http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/6131/index.m3u8
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 2  Premium
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
@@ -508,12 +504,11 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40884
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40886
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",ESPN
-https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",Fox Sports
 http://iptvtree.net:8080/F17744/f01e18e2/40345
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS 2 FHD
-http://ip365.cx:900/8279091393/1687445016/376144
+http://ip365.cx:900/8279091393/1687445016/376145
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png",NBC GOLF FHD
 http://ip365.cx:900/8279091393/1687445016/268281

@@ -118,8 +118,8 @@ https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
-#http://89.187.185.89:3232/ban-duronto/index.m3u8
-http://xtream.efiberbd.net:25461/mkaua/stream/12
+#http://xtream.efiberbd.net:25461/mkaua/stream/12
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png" group-title="Kids", Cartoon Network English

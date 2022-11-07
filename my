@@ -367,7 +367,8 @@ http://live.hplink.com.bd/streams/101/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1667566800-now.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+http://175.41.46.16:8081/hls/4.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
@@ -381,7 +382,8 @@ http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-https://tinyurl.com/tatasabbiriptv17
+#https://tinyurl.com/tatasabbiriptv17
+http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports Hindi
 #http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
 https://tinyurl.com/tatasabbiriptv18
@@ -398,12 +400,14 @@ https://tinyurl.com/tatasabbiriptv23
 #http://watchindia.net:8880/live/vvv/vvv/2292.ts
 #http://180.178.188.152:8000/play/a018
 #http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2508/index.m3u8
-https://tinyurl.com/tatasabbiriptv14
+#https://tinyurl.com/tatasabbiriptv14
+http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://180.178.188.152:8000/play/a019
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
 #http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2507/index.m3u8
-https://tinyurl.com/tatasabbiriptv15
+#https://tinyurl.com/tatasabbiriptv15
+http://175.41.46.16:8081/hls/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1 HD
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/588

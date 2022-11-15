@@ -214,8 +214,10 @@ http://iptvtree.net:8080/86488e81/5e48c38fdd/193647
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/46.m3u8
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-87 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Music Mastii
-http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",Zing
+https://236s.short.gy/Zing.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="" group-title="MUSIC",E24
 http://208.86.19.13:81/719.stream/index.m3u8
 #EXTINF:-87 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806" group-title="MUSIC",Sun Music
@@ -225,7 +227,8 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors Cineplex HD
-http://iptvtree.net:8080/86488e81/5e48c38fdd/19741
+#http://iptvtree.net:8080/86488e81/5e48c38fdd/19741
+https://236s.short.gy/Cineplex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors
 #http://xtream.efiberbd.net:25461/mkaua/stream/24
 http://iptvtree.net:8080/86488e81/5e48c38fdd/1366

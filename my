@@ -39,7 +39,7 @@ https://stream.cstfctg.com////rtvonline////rtv2021.stream////playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-15 tvg-logo="https://i.ytimg.com/vi/Ql_wezJxlQU/maxresdefault.jpg" group-title="BANGLA",BOISHAKHI Plus
+#EXTINF:-15 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Boishakhi_TV_plus_logo.png/revision/latest/scale-to-width-down/1185?cb=20221020103718" group-title="BANGLA",BOISHAKHI Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
 #http://208.86.19.13:81/660.stream/index.m3u8
@@ -92,7 +92,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 
 
 
-#EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/QuranTV.png" group-title="Islamic",Saudi Quran
+#EXTINF:-1 group-title="English News" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj", Saudi Quran
 #http://208.86.19.13:81/631.stream/index.m3u8
 #https://tvs1.aynaott.com/qurantv/tracks-v1a1/mono.m3u8
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
@@ -361,9 +361,8 @@ http://iptvtree.net:8080/86488e81/5e48c38fdd/62584
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 #http://45.127.244.7:8080/hls/channel7.m3u8
 http://172.16.128.2:8081/live/sky1009/playlist.m3u8
-#EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
+#EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
 http://172.16.128.2:8081/live/sky1015/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD

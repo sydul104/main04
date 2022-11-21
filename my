@@ -318,7 +318,7 @@ http://test-otv1.ftpbd.net/streams/106/index.m3u8
 http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 #https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
-http://45.127.244.7:8080/hls/channel3.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
@@ -401,16 +401,13 @@ http://watchindia.net:8880/live/vvv/vvv/1067.m3u8
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
-http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Primeun League
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Football
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-1
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
-
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
-
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
@@ -462,45 +459,16 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" group-title="SPORTS",Ad Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports3.jpg" group-title="SPORTS",Ad Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png",RO | DIGI SPORT 1 FHD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png",RO | DIGI SPORT 2 FHD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png",RO | DIGI SPORT 3 FHD
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",ESPN
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",Fox Sports
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS 2 FHD
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png",NBC GOLF FHD
 
-
-
-
-
-
-#EXTINF:-202 group-title="Hindi Movies",IN: Karagar Part-1
-http://103.179.128.246/Data/tvseries/new/Karagar//s01/Karagar.2022.Hoichoi.Original.Series.S01.E01.1080p.HD.WEB-DL.AAC2.0.H264-iNFiNiT3.mp4
-#EXTINF:-202 group-title="Hindi Movies",IN-Ban:BAAZI
-https://assets-1.entertainvideo.com/assets/media/941cb3c1b88a354bbe66c3e01f83a3ee/dash/941cb3c1b88a354bbe66c3e01f83a3ee.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN: Pushpa
-http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Pushpa%20The%20Rise%20(2021)%201080p%20WEBDL.mp4
-#EXTINF:-202 group-title="Hindi Movies",IN:KGF
-https://assets-1.mypowerdisk.com/transcode_video/a5baec1e9907b707221ac1c8b4209766/dash/a5baec1e9907b707221ac1c8b4209766.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN:RRR
-https://assets-1.mypowerdisk.com/transcode_video/7adcca8586e774b786c027e892103ded/dash/7adcca8586e774b786c027e892103ded.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN:Rudra
-https://assets-1.mypowerdisk.com/transcode_video/36b751d2fab813ebf2d1a435d6e8077e/dash/36b751d2fab813ebf2d1a435d6e8077e.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN:Moonfall (2022)
-https://assets-1.entertainvideo.com/assets/media/56d32eccaeee0111ad5d9183d0292cc4/dash/56d32eccaeee0111ad5d9183d0292cc4.mpd
 
 
 

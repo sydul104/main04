@@ -440,21 +440,19 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
-http://iptvtree.net:8080/F17744/f01e18e2/1499
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
-http://iptvtree.net:8080/F17744/f01e18e2/1503
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -474,10 +472,8 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS 2 FHD
-http://ip365.cx:900/8279091393/1687445016/376145
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png",NBC GOLF FHD
-http://ip365.cx:900/8279091393/1687445016/268281
 
 
 

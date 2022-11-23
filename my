@@ -313,7 +313,7 @@ http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-http://103.78.255.178:8080/starselect1/index.m3u8
+http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 #https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
@@ -325,7 +325,8 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.118.76.146:1935/plex/tsports.stream/chunklist_w1278672545.m3u8
-http://45.127.244.7:8080/hls/channel1.m3u8
+#http://45.127.244.7:8080/hls/channel1.m3u8
+http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://172.16.128.2:8081/live/sky1010/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
@@ -457,17 +458,14 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",Sports 1
-http://tv2.efiberbd.net:8080/live/mkaua/stream/43.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 MAX
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Dubai Sports 1
-http://tv2.efiberbd.net:8080/live/mkaua/stream/45.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" group-title="SPORTS",Ad Sports 2
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports3.jpg" group-title="SPORTS",Ad Sports 3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png",RO | DIGI SPORT 1 FHD

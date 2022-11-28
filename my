@@ -322,7 +322,8 @@ http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/163
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+#http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+http://dotfli.live/s-1-tsports/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
@@ -334,7 +335,8 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://103.78.255.178:8080/starselect1/index.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://172.16.128.2:8081/live/sky1010/playlist.m3u8
+#http://172.16.128.2:8081/live/sky1010/playlist.m3u8
+http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 http://test-otv1.ftpbd.net/streams/118/index.m3u8
@@ -344,7 +346,8 @@ http://test-otv1.ftpbd.net/streams/118/index.m3u8
 http://172.16.128.2:8081/live/sky1011/playlist.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 #http://103.127.93.82:8883/play/gazitv/index.m3u8
-http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+#http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 http://tv2.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 

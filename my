@@ -313,8 +313,8 @@ http://test-otv1.ftpbd.net/streams/115/index.m3u8
 http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
+#https://tv.bdflix.xyz/Tsports/tracks-v1a1/mono.m3u8
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/163
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 #https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
@@ -324,10 +324,13 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.118.76.146:1935/plex/tsports.stream/chunklist_w1278672545.m3u8
 #http://45.127.244.7:8080/hls/channel1.m3u8
-http://103.78.255.178:8080/starselect1/index.m3u8
+#http://103.78.255.178:8080/starselect1/index.m3u8
+https://sabbirhasan.pythonanywhere.com/worldcup/efiber-tsports
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://172.16.128.2:8081/live/sky1010/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
@@ -341,12 +344,13 @@ http://172.16.128.2:8081/live/sky1011/playlist.m3u8
 #http://103.127.93.82:8883/play/gazitv/index.m3u8
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
-
+https://sabbirhasan.pythonanywhere.com/worldcup/efiber-gazitv
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://45.127.244.7:8080/hls/channel9.m3u8
 #http://172.16.128.2:8081/live/sky1008/playlist.m3u8
-http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+#http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+https://tv.bdflix.xyz/Star_Sports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://tv.midiplexhd.com/hls/sky_11.m3u8
@@ -398,7 +402,9 @@ http://172.16.128.2:8081/live/sky1012/playlist.m3u8
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
-http://45.127.244.7:8080/hls/channel9.m3u8
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
+#http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+https://sabbirhasan.pythonanywhere.com/worldcup/efiber-sports18
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
@@ -428,15 +434,15 @@ http://watchindia.net:8880/live/vvv/vvv/1067.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/33424
-#http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/110
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/110
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
-#http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 2  Premium
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
@@ -458,9 +464,12 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",Sports 1
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",Bein Sports 1
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/450
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 MAX
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3
+http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2

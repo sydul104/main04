@@ -324,7 +324,7 @@ http://test-otv1.ftpbd.net/streams/106/index.m3u8
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/163
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 #https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
@@ -417,11 +417,13 @@ http://test-otv1.ftpbd.net/streams/119/index.m3u8
 #http://tv.midiplexhd.com/hls/sky_16.m3u8
 http://172.16.128.2:8081/live/sky1012/playlist.m3u8
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
+http://103.159.4.38:8091/CH10-SP10/tracks-v1a1/mono.m3u8
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
 #http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-http://115.186.148.250:8000/play/a00s
+#http://115.186.148.250:8000/play/a00s
+http://103.159.4.38:8091/CH1-SP1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD

@@ -124,7 +124,8 @@ http://watchindia.net:8880/live/vvv/vvv/2182.ts
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/2613
+#http://jadetv.de:80/eagleiptv/SsFAljPDDi/2613
+http://test-otv1.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 #http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
 http://iptvtree.net:8080/86488e81/5e48c38fdd/1363
@@ -331,8 +332,8 @@ http://dotfli.live/s-1-tsports/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
-
+#http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
+http://test-otv1.ftpbd.net/streams/107/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
@@ -349,7 +350,8 @@ http://test-otv1.ftpbd.net/streams/118/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://45.127.244.7:8080/hls/channel2.m3u8
-http://172.16.128.2:8081/live/sky1011/playlist.m3u8
+#http://172.16.128.2:8081/live/sky1011/playlist.m3u8
+http://test-otv1.ftpbd.net/streams/117/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 #http://103.127.93.82:8883/play/gazitv/index.m3u8
 #http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
@@ -399,15 +401,17 @@ http://test-otv1.ftpbd.net/streams/111/index.m3u8
 #http://tv2.efiberbd.net:8080/live/mkaua/stream/42.m3u8
 http://test-otv1.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9071
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9071
+http://test-otv1.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-141 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="SPORTS",Sony Sports-4
 https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 SD
 #http://45.127.244.7:8080/hls/channel4.m3u8
-http://172.16.128.2:8081/live/sky1009/playlist.m3u8
+#http://172.16.128.2:8081/live/sky1009/playlist.m3u8
+http://test-otv1.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
-#http://test-otv1.ftpbd.net/streams/119/index.m3u8
-http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
+
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 #http://tv.midiplexhd.com/hls/sky_16.m3u8

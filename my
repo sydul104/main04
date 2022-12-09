@@ -374,9 +374,8 @@ https://tv.bdflix.xyz/Sony-Six/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
-
+http://test-otv1.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
@@ -395,15 +394,11 @@ http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/35044
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Football
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159568
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-1
-http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
-https://webudi.openhd.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket-[2]
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
-http://satline.xyz:8080/live/5641662923740580/8591662923740580/6714.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
-http://satline.xyz:8080/live/5641662923740580/8591662923740580/6719.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports HD
@@ -420,7 +415,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/110
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
-https://webudi.openhd.lol/ddy1/premium46/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
@@ -447,12 +441,10 @@ http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports tv
-#http://shareext@ssvrv.xyz:80/live/96790pedr0090/0090pedr96790/179682.m3u8
-http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
+http://shareext@ssvrv.xyz:80/live/96790pedr0090/0090pedr96790/179682.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
-#http://jadetv.de:80/eagleiptv/SsFAljPDDi/159576
-http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159576
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159577
 

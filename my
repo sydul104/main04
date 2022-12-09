@@ -124,14 +124,12 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_5.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
-#https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
-https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
+https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 #http://jadetv.de:80/eagleiptv/SsFAljPDDi/2613
 http://test-otv1.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
-#http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
-https://sabbirhasan.pythonanywhere.com/dplus/discoverysci-eng
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/1007
@@ -330,10 +328,10 @@ http://test-otv1.ftpbd.net/streams/118/index.m3u8
 #http://test-otv1.ftpbd.net/streams/117/index.m3u8
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-http://103.143.235.50:8080/101/101.m3u8
+#http://103.143.235.50:8080/101/101.m3u8
+http://test-otv1.ftpbd.net/streams/117/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 #http://103.102.27.173/live/tvfeed1001/index.m3u8
-#http://test-otv1.ftpbd.net/streams/106/index.m3u8
 https://tv.bdflix.xyz/Gazi_TV/tracks-v1a1/mono.m3u8
 
 

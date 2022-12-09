@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
-http://208.86.19.13:81/665.stream/index.m3u8
+#http://208.86.19.13:81/665.stream/index.m3u8
+https://tv.bdflix.xyz/BTV/index.m3u8
 #EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png" group-title="BANGLA",BTV CTG
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BANGLA",Sangsad TV
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
@@ -53,7 +54,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
 #http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
-http://208.86.19.13:81/677.stream/index.m3u8
+#http://208.86.19.13:81/677.stream/index.m3u8
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 https://tv.bdflix.xyz/Massranga/tracks-v1a1/mono.m3u8
@@ -141,7 +143,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
+https://tv.bdflix.xyz/Sony_Earth/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 #http://jadetv.de:80/eagleiptv/SsFAljPDDi/6424
 https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-eng
@@ -154,7 +157,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha
-
+https://tv.bdflix.xyz/Star_Jalsha/index.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
@@ -239,16 +242,20 @@ http://139.99.96.163:2095/live/User48278/tBw10zkne9/24.ts
 #http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
-http://139.99.96.163:2095/live/User48278/tBw10zkne9/25.ts
+#http://139.99.96.163:2095/live/User48278/tBw10zkne9/25.ts
+https://tv.bdflix.xyz/Zee-Cinema/index.m3u8
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
 #http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
+https://tv.bdflix.xyz/Sony_Entertainment/index.m3u8
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
-http://208.86.19.13:81/702.stream/index.m3u8
+#http://208.86.19.13:81/702.stream/index.m3u8
+https://tv.bdflix.xyz/Sony_Sab/index.m3u8
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
+https://tv.bdflix.xyz/Sony_Max/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",ARY_Digital
@@ -256,7 +263,8 @@ http://208.86.19.13:81/627.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg" group-title="English Movie",Sony Pix HD
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_SD&q=1200&e=junk.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Sony_Pix_SD&q=1200&e=junk.m3u8
+https://tv.bdflix.xyz/Sony_Pix/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movie",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
@@ -309,7 +317,8 @@ https://d3cq7cdp2cfi92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.78.255.178:8080/starselect1/index.m3u8
-http://103.143.235.50:8080/102/102.m3u8
+#http://103.143.235.50:8080/102/102.m3u8
+http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=ZrXwqGqN8lN-l0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://103.102.27.173/live/tvfeed1002/index.m3u8
 http://dotfli.live/s-1-tsports/tracks-v4a1/mono.m3u8

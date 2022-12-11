@@ -469,7 +469,8 @@ http://tv.maguraplex.net:8000/live/beinsportshd/index.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",Bein Sports 1 MAX
-http://fancytv.ddns.net:25461/fancynet/fancytv/1757
+#http://fancytv.ddns.net:25461/fancynet/fancytv/1757
+http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 MAX
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 http://fancytv.ddns.net:25461/fancynet/fancytv/1758

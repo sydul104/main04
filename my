@@ -178,7 +178,7 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/2282.m3u8
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2283.m3u8
 #EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://208.86.19.13:81/708.stream/index.m3u8
-https://mkntv.000webhostapp.com/Zee/api.php?c=0-9-zeebanglacinema
+https://4v9v.short.gy/zeebancin.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://208.86.19.13:81/904.stream/index.m3u8
 http://jio.buttflix.best/autoq.php?c=Colors_Bangla_SD&q=1200&e=.m3u8
@@ -261,10 +261,10 @@ http://139.99.96.163:2095/live/User48278/tBw10zkne9/24.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv World
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 #http://208.115.215.42/ZEE_CInema_HD/index.m3u8
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+https://4v9v.short.gy/zeecinsd.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 #http://139.99.96.163:2095/live/User48278/tBw10zkne9/25.ts
-https://zeeliv.tk/api.php?c=0-9-zeecinemahd
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
 #http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
@@ -317,7 +317,8 @@ http://starshare.live:8080//live/24321463/35245125/29366.ts
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
 #http://208.86.19.13:81/9055.stream/index.m3u8
-http://test-otv1.ftpbd.net/streams/115/index.m3u8
+#http://test-otv1.ftpbd.net/streams/115/index.m3u8
+https://stream.nayeemparvez.tk/hls/FIFA-LIVE-1080P/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 #http://jio.buttflix.best/autoq.php?c=Sports18_1_HD&q=1200&e=.m3u8
 http://103.76.243.139:8000/live/gazitvhd1/index.m3u8
@@ -328,8 +329,9 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4 [toffee free]
 #https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5 [toffee paid]
-https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5 [toffee Premium]
+#https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
+https://premiumnetworktv.tk/1000p/FIFA-World-Cup.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
@@ -364,8 +366,8 @@ http://103.197.204.248:80/s-2-gtv/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://172.16.128.2:8081/live/sky1008/playlist.m3u8
-http://103.166.102.58:8000/play/a00c
-
+#http://103.166.102.58:8000/play/a00c
+https://4v9v.short.gy/stahinvid.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://tv.midiplexhd.com/hls/sky_11.m3u8
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
@@ -431,7 +433,6 @@ http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/35044
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Primeun League
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Football
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159568
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-1
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
@@ -448,9 +449,8 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/159568
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English
-#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/33424
-#http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/110
+#http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/110
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
@@ -465,7 +465,6 @@ http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-http://tv.maguraplex.net:8000/live/beinsportshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5

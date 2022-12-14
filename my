@@ -56,8 +56,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #http://208.86.19.13:81/677.stream/index.m3u8
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
-#http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
-https://tv.bdflix.xyz/Massranga/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/17.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
@@ -320,9 +319,8 @@ http://starshare.live:8080//live/24321463/35245125/29366.ts
 #http://208.86.19.13:81/9055.stream/index.m3u8
 http://test-otv1.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
-#https://tv.bdflix.xyz/FIFA/tracks-v1a1/mono.m3u8
-#https://02ip.ru/astroWC2?shareext.ts
-http://jio.buttflix.best/autoq.php?c=Sports18_1_HD&q=1200&e=.m3u8
+#http://jio.buttflix.best/autoq.php?c=Sports18_1_HD&q=1200&e=.m3u8
+http://103.76.243.139:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
 #https://tv.bdflix.xyz/Tsports/tracks-v1a1/mono.m3u8
@@ -344,7 +342,8 @@ https://d3cq7cdp2cfi92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.78.255.178:8080/starselect1/index.m3u8
 #http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=ZrXwqGqN8lN-l0
-http://103.143.235.50:8080/102/102.m3u8
+#http://103.143.235.50:8080/102/102.m3u8
+http://103.197.204.248:80/s-1-tsports/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://103.102.27.173/live/tvfeed1002/index.m3u8
 #http://dotfli.live/s-1-tsports/tracks-v4a1/mono.m3u8
@@ -359,8 +358,8 @@ http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #http://103.143.235.50:8080/101/101.m3u8
 http://test-otv1.ftpbd.net/streams/117/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
-#https://tv.bdflix.xyz/Gazi_TV/tracks-v1a1/mono.m3u8
-http://103.102.27.173/live/tvfeed1001/index.m3u8
+#http://103.102.27.173/live/tvfeed1001/index.m3u8
+http://103.197.204.248:80/s-2-gtv/index.m3u8
 
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1

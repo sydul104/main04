@@ -146,6 +146,7 @@ http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=282665&exte
 http://103.132.181.98:81/play/a006
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 #http://b1g.one//live/40404040/60606060/8014.ts
+#https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 http://103.143.235.50/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -246,6 +247,7 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors Cineplex HD
+https://tv.freeseries.eu.org/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
@@ -383,8 +385,8 @@ http://103.197.204.248:80/s-2-gtv/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://172.16.128.2:8081/live/sky1008/playlist.m3u8
-#http://103.166.102.58:8000/play/a00c
-https://4v9v.short.gy/stahinvid.m3u8
+http://103.166.102.58:8000/play/a00c
+
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://tv.midiplexhd.com/hls/sky_11.m3u8
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
@@ -399,14 +401,18 @@ http://test-otv1.ftpbd.net/streams/126/index.m3u8
 http://103.166.102.58:8000/play/a00l
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
-#https://tv.bdflix.xyz/Star_Sports_Selecet1/tracks-v1a1/mono.m3u8
 #http://b1g.one//live/40404040/60606060/8008.ts
-http://test-otv1.ftpbd.net/streams/116/index.m3u8
+#http://test-otv1.ftpbd.net/streams/116/index.m3u8
+#http://he11o.akadatel.com/iptv/NPFTZBM7EF776R/2508/index.m3u8
+http://103.143.235.50/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
 #http://172.16.128.2:8081/live/sky1016/playlist.m3u8
 #https://tv.bdflix.xyz/Star_Sports_Select2/tracks-v1a1/mono.m3u8
-http://test-otv1.ftpbd.net/streams/125/index.m3u8
+#http://test-otv1.ftpbd.net/streams/125/index.m3u8
+http://he11o.akadatel.com/iptv/NPFTZBM7EF776R/2507/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 #http://172.16.128.2:8081/live/sky1007/playlist.m3u8

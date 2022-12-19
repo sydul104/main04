@@ -128,10 +128,10 @@ http://b1g.one//live/40404040/60606060/8025.ts
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
-#https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #http://b1g.one//live/40404040/60606060/8006.ts
-http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
-http://jio.buttflix.best/autoq.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+#http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
+#http://jio.buttflix.best/autoq.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 #http://jadetv.de:80/eagleiptv/SsFAljPDDi/2613
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8

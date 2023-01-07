@@ -60,7 +60,7 @@ http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.fmp4.m3u8?expire=1671299853&to
 #http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 http://humiptv.live:8080/live/RkAdhikari/Raju5555/434.ts
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
-
+http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 http://208.86.19.13:81/661.stream/index.m3u8
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
@@ -305,20 +305,19 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-http://test-otv1.ftpbd.net/streams/115/index.m3u8
+http://test-otv1.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
-http://test-otv1.ftpbd.net/streams/107/index.m3u8
+http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 http://cdn01.palki.tv/live/NagorikTV-M/tracks-v1a1/mono.m3u8?token=ad5bda4470c8e8cc002390141fb3e3f0
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
-https://sg-1.dotfli.live/live-sports/tracks-v3a1/mono.m3u8?token=5410c4e54813fceda1023c0f06e1d9735a2e3fe1-f61f601ecef494000a37546d207391be-1673086700-1673075900
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2325.ts
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2325.ts
+http://test-otv1.ftpbd.net/streams/127/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8 [T10]
 
 

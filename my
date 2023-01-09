@@ -325,7 +325,8 @@ http://test-otv1.ftpbd.net/streams/127/index.m3u8
 #http://103.78.255.178:8080/starselect1/index.m3u8
 #http://103.143.235.50:8080/102/102.m3u8
 #http://103.197.204.248:80/s-1-tsports/index.m3u8
-http://dotfli.net:3030/s-1-tsports/tracks-v1a1/mono.m3u8
+#http://dotfli.net:3030/s-1-tsports/tracks-v1a1/mono.m3u8
+http://dotfli.net:3030/s-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://dotfli.live/s-1-tsports/tracks-v4a1/mono.m3u8
 #http://tv.maguraplex.net:8000/live/tsports/index.m3u8

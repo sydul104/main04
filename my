@@ -118,8 +118,9 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png" group-title="Kids", Cartoon Network English
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/82584
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids", Sony YAY
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/1355
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master_5.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
@@ -171,9 +172,11 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/2282.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://103.213.238.70/ZeeBangla/tracks-v1a1/mono.m3u8
 #http://watchindia.net:8880/live/dharmend/PTukavDWzh/2283.m3u8
+#http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/145632
 http://102.222.232.18:9981/stream/channelid/633358552?ticket=650EBB054B7A482ED7B000F8FC9AD16C7E1271F2&profile=matroska
 
 #EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/21658
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://208.86.19.13:81/904.stream/index.m3u8
@@ -187,7 +190,8 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225833&extensi
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
-#EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath
+#EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",DD Bangla
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/45488
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla 2
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=155784&extension=ts&play_token=RJs6nRPzUU
@@ -208,7 +212,8 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-86 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC",Music India
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#http://cdn12.henico.net:8080/live/jbani/index.m3u8
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/1358
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png"group-title="MUSIC", 8X music
 http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
@@ -224,7 +229,8 @@ http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
 #http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",Zing
-http://208.86.19.13:81/634.stream/index.m3u8
+#http://208.86.19.13:81/634.stream/index.m3u8
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/173160
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Music
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",ARY Music
@@ -263,11 +269,13 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 http://102.222.232.18:9981/stream/channelid/1289136274?ticket=4D3561953FC08883DED6B3B94125B6D7E4FE611D&profile=matroska
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
 #http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8?token=test
-http://103.213.238.70/ZeeTVHD/tracks-v1a1/mono.m3u8
+#http://103.213.238.70/ZeeTVHD/tracks-v1a1/mono.m3u8
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/1348
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv World
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 #http://180.178.188.152:8000/play/a00z
-http://103.213.238.70/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#http://103.213.238.70/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/1350
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
@@ -374,7 +382,8 @@ http://test-otv1.ftpbd.net/streams/126/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 #http://103.166.102.58:8000/play/a00l
-http://xtv.ooo:8080/345529766/157811576/167577
+#http://xtv.ooo:8080/345529766/157811576/167577
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/62584
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 #http://b1g.one//live/40404040/60606060/8008.ts

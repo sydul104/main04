@@ -55,7 +55,8 @@ https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/69344
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
-http://test-otv1.ftpbd.net/streams/106/index.m3u8
+#http://test-otv1.ftpbd.net/streams/106/index.m3u8
+http://118.179.3.26/Nagorik/tracks-v1a1/mono.m3u8?token=RohabTV
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
@@ -135,6 +136,7 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_5.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 http://185.59.223.102:8080/disney/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla [x]
@@ -173,6 +175,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/12979
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
+http://103.141.159.69:8000/play/a04j/index.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2282.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
@@ -238,8 +241,8 @@ http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
 #http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",Zing
-#http://208.86.19.13:81/634.stream/index.m3u8
-http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/173160
+#http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/173160
+http://103.141.159.69:8000/play/a04f/index.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Music
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",ARY Music
@@ -256,7 +259,8 @@ https://live.hungama.com/linear/dil-se/playlist_playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors Cineplex HD
 #https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
-http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
+#http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
+http://103.141.159.69:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors
 #http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
 http://102.222.232.18:9981/stream/channel/86682d94acf00e5cfcae2607fea632fb?profile=webtv-vp8-vorbis-webm
@@ -294,9 +298,12 @@ https://zee5.yashrajmod.online/api.php?c=0-9-zeecinema
 #http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
 https://zee5.yashrajmod.online/api.php?c=0-9-zeeaction
+#EXTINF:-107 tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Amol Cinema
+http://103.141.159.69:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
 http://102.222.232.18:9981/stream/channel/aa5451ebe16924d501e153c17845a5ce?profile=webtv-vp8-vorbis-webm
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
+http://103.141.159.69:8000/play/a04k/index.m3u8
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
 #http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
@@ -304,9 +311,14 @@ https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",B4U Kadak
+http://103.141.159.69:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",Enter-10
+http://103.141.159.69:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",Oscar Movie
 http://102.222.232.18:9981/stream/channel/01b8a5097492e227fbbf5527edae5e0d?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",ARY Digital
+http://103.141.159.69:8000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg" group-title="English Movie",Sony Pix HD
 #https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -355,7 +367,8 @@ https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2325.m3u8
+#http://watchindia.net:8880/live/dharmend/PTukavDWzh/2325.m3u8
+http://118.179.3.26/PTV-Sports/tracks-v1a1/mono.m3u8?token=RohabTV
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 
@@ -375,7 +388,8 @@ http://103.102.27.173/live/tvfeed1004/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://102.222.232.18:9981/stream/channel/ef698c7167c42ebf1b874798d910373f?profile=webtv-vp8-vorbis-webm
-http://xtv.ooo:8080/345529766/157811576/167575
+#http://xtv.ooo:8080/345529766/157811576/167575
+http://118.179.3.26/Star-Sports-1/tracks-v1a1/mono.m3u8?token=RohabTV
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
@@ -437,8 +451,6 @@ http://xtv.ooo:8080/345529766/157811576/167569
 #http://watchindia.net:8880/live/dharmend/PTukavDWzh/1016.m3u8
 http://xtv.ooo:8080/345529766/157811576/167568
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-#http://txm1.flysat.live:2089/9152894094/3603122011/203423
-https://crichd-sabbiriptv.vercel.app/api?id=willowusa
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 http://xtv.ooo:8080/345529766/157811576/167582
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501

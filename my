@@ -56,7 +56,7 @@ https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/69344
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 #http://test-otv1.ftpbd.net/streams/106/index.m3u8
-http://118.179.3.26/Nagorik/tracks-v1a1/mono.m3u8?token=RohabTV
+http://118.179.3.26/Nagorik/tracks-v1a1/mono.m3u8?token=RohabTVV
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
@@ -139,12 +139,12 @@ http://185.59.223.102:8080/disney/index.m3u8
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 
 
-#EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla [x]
-https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
+#EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla/Hindi
+#https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
-#http://jadetv.de:80/eagleiptv/SsFAljPDDi/2613
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 #http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
@@ -163,8 +163,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
-#http://jadetv.de:80/eagleiptv/SsFAljPDDi/6424
-https://tv.googledrivelinks.com/live.php?c=Animal_Planet_Hindi&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Animal_Planet_Hindi&q=1200&e=.m3u8
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -368,11 +368,12 @@ https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_850.m3u8
 https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 #http://watchindia.net:8880/live/dharmend/PTukavDWzh/2325.m3u8
-http://118.179.3.26/PTV-Sports/tracks-v1a1/mono.m3u8?token=RohabTV
+http://118.179.3.26/PTV-Sports/tracks-v1a1/mono.m3u8?token=RohabTVV
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
@@ -389,7 +390,7 @@ http://103.102.27.173/live/tvfeed1004/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://102.222.232.18:9981/stream/channel/ef698c7167c42ebf1b874798d910373f?profile=webtv-vp8-vorbis-webm
 #http://xtv.ooo:8080/345529766/157811576/167575
-http://118.179.3.26/Star-Sports-1/tracks-v1a1/mono.m3u8?token=RohabTV
+http://118.179.3.26/Star-Sports-1/tracks-v1a1/mono.m3u8?token=RohabTVV
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 http://test-otv2.ftpbd.net/streams/110/index.m3u8

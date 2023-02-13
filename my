@@ -261,6 +261,8 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 http://102.222.232.18:9981/stream/channelid/1452596058?ticket=BEDA78FF4025677F9873AAB961E816063CCE9E6F&profile=matroska
 #EXTINF:-98 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS0XIuM3jYJPnjEFAdoBoqrDkEwev9LQL8HdM4w1Q=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi", &Tv
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
+#https://zee.yashrajmod.online/api.php?c=0-9-pictures
+https://zee.yashrajmod.online/api.php?c=0-9-tvpictureshd
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold SD
@@ -412,11 +414,13 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 #http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.m3u8
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281089&extension=ts&play_token=qWozOIBZjt
+#http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281089&extension=ts&play_token=qWozOIBZjt
+http://pakin.worldtvip.co/pk_ptv_sports/tracks-v1a1/mono.m3u8
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 http://xtv.ooo:8080/345529766/157811576/167567
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 #http://208.86.19.13:81/711.stream/index.m3u8
+#http://27.96.95.58:8000/play/a030/index.m3u8
 http://xtv.ooo:8080/345529766/157811576/167569
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports

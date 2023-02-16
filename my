@@ -148,10 +148,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-sam
 #http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
+http://103.167.167.5:8111/play/a036/index.m3u8
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD [Ar]
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
-https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+#https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+http://103.167.167.5:8111/play/a01d/index.m3u8
 #EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
@@ -310,7 +312,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English Movie",Cinema World
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+http://103.167.167.5:8111/play/a01f/index.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",My Cinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Kingdom" tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="English Movie", Movies Kingdom
@@ -330,7 +333,8 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-http://test-otv2.ftpbd.net/streams/123/index.m3u8
+#http://test-otv2.ftpbd.net/streams/123/index.m3u8
+http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://test-otv2.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
@@ -424,6 +428,7 @@ http://xtv.ooo:8080/345529766/157811576/167567
 http://xtv.ooo:8080/345529766/157811576/167569
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
+http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://watchindia.net:8880/live/dharmend/PTukavDWzh/1016.m3u8
 http://xtv.ooo:8080/345529766/157811576/167568
@@ -435,6 +440,7 @@ http://xtv.ooo:8080/345529766/157811576/167582
 http://xtv.ooo:8080/345529766/157811576/167581
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
+http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
@@ -504,7 +510,11 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 http://seduluran.xyz/Live/LOKAL/indosiar3.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports tv
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Champion Sports 1 HD
+http://103.167.167.5:8111/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Champion Sports 2 HD
+http://103.167.167.5:8111/play/a01q/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Dubai Sports 1

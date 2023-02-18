@@ -413,7 +413,7 @@ http://test-otv2.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
 #http://test-otv1.ftpbd.net/streams/119/index.m3u8
 #http://103.102.27.173/live/tvfeed1006/index.m3u8
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 #http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.m3u8

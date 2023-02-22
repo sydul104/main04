@@ -70,7 +70,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 #http://208.86.19.13:81/672.stream/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="BANGLA",Bijoy TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/69367
+http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/69367
 #EXTINF:-37 tvg-logo="https://imgur.com/ofqGiiK" group-title="BANGLA", Voice tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
@@ -175,6 +175,7 @@ http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/12979
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
 http://103.141.159.69:8000/play/a04j/index.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
+http://212.224.84.217:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg%3D%3D%2C165803831455.4814651659%3D%7CUser-agent%3DREDLINECLIENT
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://watchindia.net:8880/live/dharmend/PTukavDWzh/2283.m3u8
 #http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/145632
@@ -348,7 +349,6 @@ http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=CXtoCQY
 https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
 
 
@@ -370,12 +370,12 @@ http://118.179.3.26/Star-Sports-1/tracks-v1a1/mono.m3u8?token=RohabTVV
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports Hindi
-#http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_oTI4cKidZo842vl5bzy0hA==,1671430347.0720930273=%7CUser-agent=FreeSports
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/460746
+http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_oTI4cKidZo842vl5bzy0hA==,1671430347.0720930273=%7CUser-agent=FreeSports
 
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
 #http://xtv.ooo:8080/345529766/157811576/167576
-http://test-otv2.ftpbd.net/streams/126/index.m3u8
+#http://test-otv2.ftpbd.net/streams/126/index.m3u8
+http://118.179.3.26/Star-Sports-2/tracks-v1a1/mono.m3u8?token=RohabTVV
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 #http://xtv.ooo:8080/345529766/157811576/167577
@@ -429,14 +429,16 @@ http://pakin.worldtvip.co/pk_tensports/tracks-v1a1/mono.m3u8
 http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://pakin2.worldtvip.co:9090/s_willow_sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://ku3.worldtvip.co/cric_fox501/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
-http://dac.worldtvip.co/SK_AU_501/tracks-v1a1/mono.m3u8
+http://asu.worldtvip.co/astrocricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
-http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
+#http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
+http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
@@ -447,7 +449,10 @@ http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109022.ts
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
+http://pakin2.worldtvip.co:9090/za_ss_cricket/tracks-v1a1/mono.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
+http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts

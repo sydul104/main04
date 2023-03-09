@@ -423,6 +423,7 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281089&extensi
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
+http://103.141.2.37:25461/web/web/587
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
@@ -448,8 +449,7 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109022.ts
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109025.ts
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
-#http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
-http://103.141.2.37:25461/web/web/587
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109029.ts
 
@@ -476,6 +476,7 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/16843
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
@@ -487,13 +488,23 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Premiun 1
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/42568
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Premiun 2
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/39241
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sports 1
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/97
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena Sports 2
+http://bazaruto.top:8000/Atanas.riki/RaJ3jRRBXJ/98
+
+
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",Bein Sports 1 Tru
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Tru
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Tru
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Champion Sports 1 HD
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Champion Sports 2 HD
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
+
+
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Dubai Sports 1
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" group-title="SPORTS",Ad Sports 2
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports3.jpg" group-title="SPORTS",Ad Sports 3

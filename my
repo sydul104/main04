@@ -407,6 +407,7 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281089&extensi
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
+http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943.m3u8
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS FHD
@@ -423,10 +424,12 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281089&extensi
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109022.ts
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
+#http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37631
 https://ddy1.onlinewebtv.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?%7Creferer=https://olacast.live/&e.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109025.ts
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37630
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+

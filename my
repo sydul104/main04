@@ -327,7 +327,8 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-http://test-otv2.ftpbd.net/streams/123/index.m3u8
+#http://test-otv2.ftpbd.net/streams/123/index.m3u8
+http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w1900503185.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 #http://test-otv2.ftpbd.net/streams/127/index.m3u8
 http://157.119.239.100:8081/live/1/chunks.m3u8
@@ -424,8 +425,7 @@ http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109022.ts
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
-#http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37631
-https://ddy1.onlinewebtv.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?%7Creferer=https://olacast.live/&e.m3u8
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37631
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109025.ts
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football

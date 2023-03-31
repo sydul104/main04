@@ -371,7 +371,8 @@ https://eas4.gcdn.co/UKS68/index.m3u8
 #http://157.119.239.100:8081/live/1/chunks.m3u8
 https://eas4.gcdn.co/UKS75/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w155573767.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 https://eas4.gcdn.co/UKS45/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
@@ -401,19 +402,20 @@ http://103.141.2.37:25461/web/web/592
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
-http://103.141.2.37:25461/web/web/580
+#http://103.141.2.37:25461/web/web/580
+https://eas4.gcdn.co/UKS70/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
-#http://test-otv2.ftpbd.net/streams/110/index.m3u8
-https://eas4.gcdn.co/UKS76/index.m3u8
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
+
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports Hindi
 https://eas4.gcdn.co/UKS69/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
-#http://test-otv2.ftpbd.net/streams/126/index.m3u8
 #http://103.141.2.37:25461/web/web/581
-https://eas4.gcdn.co/UKS73/index.m3u8
+#https://eas4.gcdn.co/UKS73/index.m3u8
+http://test-otv2.ftpbd.net/streams/126/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 http://103.141.2.37:25461/web/web/578
@@ -431,13 +433,14 @@ http://103.141.2.37:25461/web/web/588
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 http://test-otv2.ftpbd.net/streams/111/index.m3u8
-http://103.141.2.37:25461/web/web/585
+#http://103.141.2.37:25461/web/web/585
+https://eas4.gcdn.co/UKS63/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
 http://test-otv2.ftpbd.net/streams/109/index.m3u8
 http://103.141.2.37:25461/web/web/584
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
-#http://test-otv2.ftpbd.net/streams/122/index.m3u8
-http://103.141.2.37:25461/web/web/582
+#http://103.141.2.37:25461/web/web/582
+http://test-otv2.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-141 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="SPORTS",Sony Sports-4
 #https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8

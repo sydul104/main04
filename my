@@ -415,8 +415,8 @@ http://103.141.2.37:25461/web/web/578
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.141.2.37:25461/web/web/579
-#http://test-otv2.ftpbd.net/streams/116/index.m3u8
-https://eas4.gcdn.co/UKS75/index.m3u8
+#https://eas4.gcdn.co/UKS75/index.m3u8
+http://test-otv2.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
 http://test-otv2.ftpbd.net/streams/125/index.m3u8
@@ -426,13 +426,12 @@ http://test-otv2.ftpbd.net/streams/125/index.m3u8
 http://test-otv2.ftpbd.net/streams/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
-http://test-otv2.ftpbd.net/streams/111/index.m3u8
 #http://103.141.2.37:25461/web/web/585
-https://eas4.gcdn.co/UKS63/index.m3u8
+#https://eas4.gcdn.co/UKS63/index.m3u8
+http://test-otv2.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
-#http://test-otv2.ftpbd.net/streams/109/index.m3u8
 #http://103.141.2.37:25461/web/web/584
-https://lin-gd-001-cf.slivcdn.com/out/v1/a2fb6f8486d9435bb34ee74a6e076b09/master_1.m3u8?hdntl=exp=1680368075~acl=*~hmac=26071cdf2a6528848ce01420a65fbdf489bc347fd7216f97fbf859d322362fe5&originpath=/linear/hls/pb/event/V9h-iyOxRiGp41ppQScDSQ/stream/9127c4a0-82a0-42a8-b8f4-e485ecfe89dc:TPE2/variant/282461b345f822b32de896910f770920/bandwidth/4704994.m3u8
+http://test-otv2.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
 #http://103.141.2.37:25461/web/web/582
 http://test-otv2.ftpbd.net/streams/122/index.m3u8

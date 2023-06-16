@@ -345,8 +345,8 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-http://103.141.2.37:25461/web/web/579
-
+#http://103.141.2.37:25461/web/web/579
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://103.141.2.37:25461/web/web/586
 

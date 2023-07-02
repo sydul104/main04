@@ -411,24 +411,26 @@ http://103.141.2.37:25461/web/web/592
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
-http://103.141.2.37:25461/web/web/580
+#http://103.141.2.37:25461/web/web/580
+http://103.61.73.220:8000/play/a0hm
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
-http://103.141.2.37:25461/web/web/581
+#http://103.141.2.37:25461/web/web/581
+http://103.61.73.220:8000/play/a03o
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
 http://test-otv2.ftpbd.net/streams/126/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
-http://103.141.2.37:25461/web/web/578
-
+#http://103.141.2.37:25461/web/web/578
+http://103.61.73.220:8000/play/a0gp
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 http://test-otv2.ftpbd.net/streams/116/index.m3u8
-
+http://103.61.73.220:8000/play/a05e
 #EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
 http://test-otv2.ftpbd.net/streams/125/index.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
-http://103.141.2.37:25461/web/web/583
-
+#http://103.141.2.37:25461/web/web/583
+http://103.61.73.220:8000/play/a05f
 #EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="SPORTS",Sports-18
 #http://103.141.2.37:25461/web/web/588
 http://test-otv2.ftpbd.net/streams/107/index.m3u8

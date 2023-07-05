@@ -404,7 +404,8 @@ http://test-otv2.ftpbd.net/streams/115/index.m3u8
 http://test-otv2.ftpbd.net/streams/106/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-http://103.141.2.37:25461/web/web/592
+#http://103.141.2.37:25461/web/web/592
+http://live.himel-himu.tk/hls/Col2/GTV_1080p/Himel-OP.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1

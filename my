@@ -376,7 +376,8 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 #http://103.141.2.37:25461/web/web/586
-https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+#https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+http://str24.l9574.com/601.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #http://103.141.2.37:25461/web/web/592
 https://toffee-thecodecrafters.vercel.app/auto/euro_sports_hd.m3u8

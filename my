@@ -196,16 +196,18 @@ http://test-otv2.ftpbd.net/streams/120/index.m3u8
 http://test-otv2.ftpbd.net/streams/119/index.m3u8
 #EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://103.141.2.37:25461/web/web/598
-http://208.86.19.13:81/7088.stream/index.m3u8
+#http://208.86.19.13:81/7088.stream/index.m3u8
+http://50.7.237.7:8081/ZEEBANGLACINEMA/tracks-v1a1/index.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://157.119.239.100:8081/live/4/chunks.m3u8
 #http://103.141.2.37:25461/web/web/601
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
 http://103.141.2.37:25461/web/web/599
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
+#EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225833&extension=ts&play_token=ueIOfcJ2dB
-http://103.141.2.37:25461/web/web/589
+#http://103.141.2.37:25461/web/web/589
+http://50.7.237.7:8081/SUNBANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-56 tvg-logo="http://tsportstv.com/live-streaming/images/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
 #http://test-otv2.ftpbd.net/streams/127/index.m3u8
 #http://103.141.2.37:25461/web/web/591
@@ -213,12 +215,14 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath
 #http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/45488
 #http://iptvtree.net:8080/myhdosama/1f2U4m1rnRO7KovH/45488
-http://103.141.2.37:25461/web/web/605
+#http://103.141.2.37:25461/web/web/605
+http://50.7.237.7:8081/DDBANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla
 #http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=155784&extension=ts&play_token=RJs6nRPzUU
 https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla 2
-http://103.141.2.37:25461/web/web/606
+#http://103.141.2.37:25461/web/web/606
+http://50.7.237.7:8081/ENTER10BANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
 
@@ -232,7 +236,8 @@ http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
 #https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #https://livetv-channels.b-cdn.net/8050/playlist.m3u8
-http://103.141.2.37:25461/web/web/604
+#http://103.141.2.37:25461/web/web/604
+http://50.7.237.7:8081/SANGEETBANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-82 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="MUSIC",Bangla talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
@@ -252,8 +257,8 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
 #http://42.200.67.163:8090/play/a0nc
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
-
+#http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+http://50.7.237.7:8081/B4UMUSIC/tracks-v1a1/index.m3u8
 #EXTINF:-87 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Music Mastii
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Music
@@ -402,13 +407,15 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 http://103.61.73.220:8000/play/a0hm
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.141.2.37:25461/web/web/581
-http://103.61.73.220:8000/play/a03o
+#http://103.61.73.220:8000/play/a03o
+http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
 http://test-otv2.ftpbd.net/streams/126/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 #http://103.141.2.37:25461/web/web/578
-http://103.61.73.220:8000/play/a0gp
+#http://103.61.73.220:8000/play/a0gp
+http://50.7.237.7:8081/STARSPORTS3/tracks-v1a1/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 http://test-otv2.ftpbd.net/streams/116/index.m3u8
 http://103.61.73.220:8000/play/a05e
@@ -425,15 +432,18 @@ http://test-otv2.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 #http://103.141.2.37:25461/web/web/585
 #http://test-otv2.ftpbd.net/streams/111/index.m3u8
-https://toffee-thecodecrafters.vercel.app/auto/sony_ten1_hd.m3u8
+#https://toffee-thecodecrafters.vercel.app/auto/sony_ten1_hd.m3u8
+http://50.7.237.7:8081/TEN1HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
 #http://103.141.2.37:25461/web/web/584
 #http://test-otv2.ftpbd.net/streams/109/index.m3u8
-https://toffee-thecodecrafters.vercel.app/auto/sony_ten2_hd.m3u8
+#https://toffee-thecodecrafters.vercel.app/auto/sony_ten2_hd.m3u8
+http://50.7.237.7:8081/TEN2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
 #http://103.141.2.37:25461/web/web/582
 #http://test-otv2.ftpbd.net/streams/122/index.m3u8
-https://toffee-thecodecrafters.vercel.app/auto/sony_ten3_hd.m3u8
+#https://toffee-thecodecrafters.vercel.app/auto/sony_ten3_hd.m3u8
+http://50.7.237.7:8081/TEN3HD/tracks-v1a1/index.m3u8
 #EXTINF:-141 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="SPORTS",Sony Sports-4
 #https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8

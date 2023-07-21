@@ -367,7 +367,7 @@ https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 #http://103.141.2.37:25461/web/web/586
 #https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
-http://str24.l9574.com/601.stream/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 http://103.141.2.37:25461/web/web/592
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
@@ -431,9 +431,9 @@ http://test-otv2.ftpbd.net/streams/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 #http://103.141.2.37:25461/web/web/585
-#http://test-otv2.ftpbd.net/streams/111/index.m3u8
 #https://toffee-thecodecrafters.vercel.app/auto/sony_ten1_hd.m3u8
-http://50.7.237.7:8081/TEN1HD/tracks-v1a1/index.m3u8
+#http://50.7.237.7:8081/TEN1HD/tracks-v1a1/index.m3u8
+http://test-otv2.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
 #http://103.141.2.37:25461/web/web/584
 #http://test-otv2.ftpbd.net/streams/109/index.m3u8
@@ -452,8 +452,8 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 http://test-otv2.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
 #http://test-otv1.ftpbd.net/streams/119/index.m3u8
-#https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-https://toffee-thecodecrafters.vercel.app/auto/sony_six_hd.m3u8
+#https://toffee-thecodecrafters.vercel.app/auto/sony_six_hd.m3u8
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]

@@ -389,7 +389,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
-
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 http://test-otv2.ftpbd.net/streams/106/index.m3u8
 
@@ -398,13 +398,14 @@ http://test-otv2.ftpbd.net/streams/106/index.m3u8
 #http://live.himel-himu.tk/hls/Col2/GTV_1080p/Himel-OP.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
-
+http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.141.2.37:25461/web/web/580
 http://103.61.73.220:8000/play/a0hm
+http://103.102.27.173/live/tvfeed1003/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.141.2.37:25461/web/web/581
 #http://103.61.73.220:8000/play/a03o
@@ -419,6 +420,7 @@ http://50.7.237.7:8081/STARSPORTS3/tracks-v1a1/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 http://test-otv2.ftpbd.net/streams/116/index.m3u8
 http://103.61.73.220:8000/play/a05e
+http://103.102.27.173/live/tvfeed1004/index.m3u8
 #EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
 http://test-otv2.ftpbd.net/streams/125/index.m3u8
 

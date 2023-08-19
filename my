@@ -50,9 +50,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #http://208.86.19.13:81/660.stream/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-17 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",Channel I
-#http://103.141.2.37:25461/web/web/595
 #https://stream.rockstreamer.com/121212.m3u8
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+http://103.141.2.37:25461/web/web/595
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
 #http://208.86.19.13:81/677.stream/index.m3u8
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
@@ -373,7 +373,7 @@ http://103.141.2.37:25461/web/web/592
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
-
+http://190.80.3.28/TVG/TVG.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7

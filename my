@@ -369,7 +369,8 @@ https://hls.rtasport.live/hls/stream.m3u8
 #https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 https://m3u-editor.com/serve/iptvbyaftabv3/921739858.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
-http://103.141.2.37:25461/web/web/592
+#http://103.141.2.37:25461/web/web/592
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
@@ -404,12 +405,13 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.141.2.37:25461/web/web/580
-http://103.61.73.220:8000/play/a0hm
-http://103.102.27.173/live/tvfeed1003/index.m3u8
+#http://103.61.73.220:8000/play/a0hm
+#http://103.102.27.173/live/tvfeed1003/index.m3u8
+http://dpny5.1234.uno:6061/starsports1/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.141.2.37:25461/web/web/581
 #http://103.61.73.220:8000/play/a03o
-http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
+#http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
 http://103.162.136.103:25461/live/FAH/fah/220.m3u8
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
 http://test-otv2.ftpbd.net/streams/126/index.m3u8
@@ -418,7 +420,8 @@ http://test-otv2.ftpbd.net/streams/126/index.m3u8
 #http://103.141.2.37:25461/web/web/578
 #http://103.61.73.220:8000/play/a0gp
 #http://50.7.237.7:8081/STARSPORTS3/tracks-v1a1/index.m3u8
-http://103.141.2.38/hls/starsports3.m3u8
+#http://103.141.2.38/hls/starsports3.m3u8
+http://dpny2.1234.uno:6061/starsportstamil/tracks-v1a1/mono.m3u8
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
 http://test-otv2.ftpbd.net/streams/116/index.m3u8
 http://103.61.73.220:8000/play/a05e
@@ -465,8 +468,8 @@ http://103.162.136.103:25461/live/FAH/fah/213
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 http://103.162.136.103:25461/live/FAH/fah/123.m3u8
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
-http://175.107.244.52:4456/play/a042/index.m3u8
-
+#http://175.107.244.52:4456/play/a042/index.m3u8
+http://dpny1.1234.uno:6061/ptvsports/index.m3u8
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket

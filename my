@@ -13,7 +13,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #http://test-otv2.ftpbd.net/streams/120/index.m3u8
 #http://103.109.56.116/live/skyfeed1015/index.m3u8
 #http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
-http://11plus.live/live/71/index.m3u8
+#http://11plus.live/live/71/index.m3u8
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=23&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA",Ekon tv
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24

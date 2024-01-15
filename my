@@ -335,8 +335,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #http://11plus.live/live/gb/index.m3u8
 #https://nayeem-parvez.pw/api/bongo.m3u8?id=gaan-bangla
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/chunks.m3u8
-#http://176.119.29.52/live.ts?channelId=97&uid=5060&deviceMac=00:1A:79:73:9C:A1
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
+#http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
+http://176.119.29.52/live.ts?channelId=97&uid=5060&deviceMac=00:1A:79:73:9C:A1
+
 
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
 #http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8

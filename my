@@ -213,7 +213,8 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
-http://176.119.29.52/live.ts?channelId=74553&uid=3702&deviceMac=00:1A:79:3B:33:26
+#http://176.119.29.52/live.ts?channelId=74553&uid=3702&deviceMac=00:1A:79:3B:33:26
+https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Rongeen tv
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
@@ -306,7 +307,8 @@ http://11plus.live/live/colore-bangla-cinema/index.m3u8
 
 #EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #http://11plus.live/live/sunbangla/index.m3u8
-http://103.132.181.118:82/play/a00s
+#http://103.132.181.118:82/play/a00s
+http://148.113.5.31:8106/play/a00z/index.m3u8
 
 #EXTINF:-56 tvg-logo="http://tsportstv.com/live-streaming/images/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
 #http://test-otv2.ftpbd.net/streams/127/index.m3u8
@@ -520,7 +522,6 @@ http://103.120.172.74:4600
 http://208.86.19.13:81/511.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_140124/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6 (Asia Cup-1)
 https://hls.streambtw.com/live/stream_4.m3u8
 
@@ -531,20 +532,22 @@ https://hls.streambtw.com/live/stream_4.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-http://113.212.111.246:8080/hls/col12.m3u8
+#http://113.212.111.246:8080/hls/col12.m3u8
+https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://11plus.live/live/tsports/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
-http://103.141.2.37:25461/web/web/588
+#http://103.141.2.37:25461/web/web/588
+https://apps.hotflixbd.online/hotflix/kariratv/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://113.212.111.246:8080/hls/col2.m3u8
 http://11plus.live/live/Gazi-TV/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-#http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
-http://103.141.2.37:25461/live/web/web/592.m3u8
+http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
-http://103.102.27.173/live/tvfeed1001/index.m3u8
+#http://103.102.27.173/live/tvfeed1001/index.m3u8
+https://cdn.retosprime.com/ayna.php?id=18&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -641,6 +644,7 @@ http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:A
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS FHD
+https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8

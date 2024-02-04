@@ -532,13 +532,12 @@ https://hls.streambtw.com/live/stream_4.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-#http://113.212.111.246:8080/hls/col12.m3u8
-https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8%7CUser-Agent=bdsajib
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://11plus.live/live/tsports/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.141.2.37:25461/web/web/588
-https://apps.hotflixbd.online/hotflix/kariratv/index.m3u8
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://113.212.111.246:8080/hls/col2.m3u8
@@ -546,7 +545,7 @@ http://11plus.live/live/Gazi-TV/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
-http://103.102.27.173/live/tvfeed1001/index.m3u8
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -574,6 +573,8 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 #http://103.141.2.37:25461/web/web/578
 #http://11plus.live/live/starsports3/index.m3u8
+#http://mag.trexlive.me:80/Michael88/Michael88/155976
+#http://233718146152672483.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/672483.ts
 http://muka03.wanicelife.com:8880/48msk050004/62869843/55271
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
@@ -588,13 +589,15 @@ http://103.132.181.118:82/play/a00u
 
 #EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
 #http://11plus.live/live/select2/index.m3u8
-http://233718146152672483.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/672483.ts
+#http://mag.trexlive.me:80/Michael88/Michael88/282676
+http://mag.trexlive.me:80/Michael88/Michael88/155973
 
 #EXTINF:-136 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-Select-2-HD-Logo.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.120.172.74:4700
 http://muka03.wanicelife.com:8880/48msk050004/62869843/55269
 
 #EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="SPORTS",Sports-18
+http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/102479.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 #http://103.141.2.37:25461/web/web/585

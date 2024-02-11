@@ -217,6 +217,8 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8%7CUser-Agent=bdsajib
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Rongeen tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Kid Screation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Sonic-The-Hedgehog-Logo.png" group-title="Kids",Sonic

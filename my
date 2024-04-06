@@ -392,6 +392,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 http://mag.trexlive.me/Michael88/Michael88/156031
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
+http://176.119.29.52/live.ts?channelId=153&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
 #EXTINF:-87 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Music Mastii
 #http://11plus.live/live/masti/index.m3u8
@@ -556,15 +557,15 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #http://103.120.172.74:4600
-https://tv5.hoichoi24.com/1014/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/6199216/619002/167575
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 https://bharwanaanet.000webhostapp.com/sports/StarsportsHindi.m3u8/
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
-#http://xtv.ooo:8080/6199216/619002/167576
-http://11plus.live/live/starsports2/index.m3u8
+#http://11plus.live/live/starsports2/index.m3u8
+http://xtv.ooo:8080/6199216/619002/167576
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 http://103.120.172.74:4200
@@ -625,8 +626,6 @@ http://xtv.ooo:8080/6199216/619002/167595
 http://103.120.172.74:5300
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
-#http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
-http://11plus.live/live/sonysix/index.m3u8
 
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
@@ -684,7 +683,9 @@ http://xtv.ooo:8080/T4S00515/820172/371470
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
 #https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
-https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+http://xtv.ooo:8080/6199216/619002/167594
+
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 #http://xtv.ooo:8080/6199216/619002/167594
 https://catowrap.live/mrgamingcric.m3u8

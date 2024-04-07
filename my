@@ -492,6 +492,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 http://xtv.ooo:8080/6199216/619002/66224
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
+http://172.17.50.112/live/antbd1003/index.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",&flix
 http://89.187.177.137:8081/&FLIX/index.m3u8
@@ -552,7 +553,8 @@ http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://11plus.live/live/stersports1hd/index.m3u8
-http://41.205.93.154/STARSPORTS1/index.m3u8
+#http://41.205.93.154/STARSPORTS1/index.m3u8
+http://172.17.50.112/live/fifa2022/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
@@ -579,8 +581,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 #http://103.141.2.37:25461/live/web/web/579.m3u8
 #http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
-#http://103.120.172.74:1030
-https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
+#https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
+http://103.120.172.74:1030
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 http://xtv.ooo:8080/6199216/619002/167578
@@ -683,12 +685,12 @@ http://xtv.ooo:8080/T4S00515/820172/371470
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
 #https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
-#https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
 http://xtv.ooo:8080/6199216/619002/167594
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 #http://xtv.ooo:8080/6199216/619002/167594
-https://catowrap.live/mrgamingcric.m3u8
+#https://catowrap.live/mrgamingcric.m3u8
+https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
@@ -699,8 +701,8 @@ https://catowrap.live/mrgamingcric.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
 #http://163.172.55.74:8080/Sue.W.2023_WAL!/URAQ9XwcqhB4jGGwq/14640
-#https://gettvfree.tech/live/stream_e1.m3u8
-https://catowrap.live/mrgamingsscric.m3u8
+#https://catowrap.live/mrgamingsscric.m3u8
+https://gettvfree.tech/live/stream_e1.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
 #https://hls.streambtw.com/live/stream_psl.m3u8

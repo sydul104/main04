@@ -620,7 +620,8 @@ http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #http://103.120.172.74:4600
-http://xtv.ooo:8080/6199216/619002/167575
+#http://xtv.ooo:8080/6199216/619002/167575
+http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #https://bharwanaanet.000webhostapp.com/sports/StarsportsHindi.m3u8/

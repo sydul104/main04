@@ -519,16 +519,15 @@ http://103.120.172.74:5000
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
 
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
-http://xtv.ooo:8080/6199216/619002/66179
+http://xtv.ooo:8080/live/shahz18/18usman/66179.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
-#http://103.120.172.74:1150
-http://103.107.79.87:8080/CH8108HD08/tracks-v1a1/mono.m3u8
+http://103.120.172.74:1150
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 #http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
-#http://208.86.19.13:81/7300.stream/index.m3u8
-https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
+http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi", Shema Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -541,18 +540,21 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English Movie",Sony Pix HD
 #http://11plus.live/live/sonypixhd/index.m3u8
-http://xtv.ooo:8080/6199216/619002/66224
+http://xtv.ooo:8080/live/shahz18/18usman/66224.ts
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 #http://172.17.50.112/live/antbd1003/index.m3u8
-http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+http://xtv.ooo:8080/live/shahz18/18usman/66315.ts
 
 #EXTINF:0 tvg-id="" group-title="English Movie",&flix
 http://89.187.177.137:8081/&FLIX/index.m3u8
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",My Cinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 
@@ -730,13 +732,11 @@ http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #https://webudit.hlsjs.ru/lb/premium346/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 http://xtv.ooo:8080/live/adnankb2006/86057314/220064.m3u8
 
-
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #https://freeiptv25.netlify.app/live/stream_10.m3u8
 #http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
 http://xtv.ooo:8080/live/adnankb2006/86057314/167593.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 #https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
@@ -745,7 +745,6 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/167593.m3u8
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS FHD
-https://catowrap.live/mrgamingbtsport2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",CricLife-1
 http://xtv.ooo:8080/live/adnankb2006/86057314/371469.m3u8

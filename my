@@ -551,7 +551,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 http://xtv.ooo:8080/6199216/619002/66224
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
-http://172.17.50.112/live/antbd1003/index.m3u8
+#http://172.17.50.112/live/antbd1003/index.m3u8
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 
 #EXTINF:0 tvg-id="" group-title="English Movie",&flix
 http://89.187.177.137:8081/&FLIX/index.m3u8
@@ -586,12 +587,13 @@ https://live.livecricketsl.xyz/live/index.m3u8
 http://opplex.tv:8080/live/223322/223322/346373.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #http://103.120.172.74:4600
-http://208.86.19.13:81/511.stream/index.m3u8
+#http://208.86.19.13:81/511.stream/index.m3u8
+https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 https://is.gd/j0AaQw
-
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
+https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
@@ -603,17 +605,18 @@ https://is.gd/j0AaQw
 #http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
+#http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
+http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
-http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+#http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+http://103.151.60.214:7444/1102/video.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 #http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
-
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://11plus.live/live/stersports1hd/index.m3u8
@@ -688,7 +691,8 @@ http://xtv.ooo:8080/6199216/619002/167571
 http://xtv.ooo:8080/6199216/619002/167572
 
 #EXTINF:-141 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="SPORTS",Sony Sports-4
-http://xtv.ooo:8080/6199216/619002/167595
+#http://xtv.ooo:8080/6199216/619002/167595
+http://103.120.172.74:1110
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 SD
 #http://103.141.2.37:25461/live/web/web/577.m3u8
@@ -723,25 +727,27 @@ http://xtv.ooo:8080/87658765/91747291/219689
 http://xtv.ooo:8080/6199216/619002/167568
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://xtv.ooo:8080/6199216/619002/167583
+#http://xtv.ooo:8080/6199216/619002/167583
+http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 #https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 #http://watchindia.net:8880/live/42678/24227/2145.ts
 #https://webudit.hlsjs.ru/lb/premium346/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
-http://xtv.ooo:8080/6199216/619002/167582
+http://xtv.ooo:8080/shahz18/18usman/220064
 
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #https://freeiptv25.netlify.app/live/stream_10.m3u8
-#http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
-http://xtv.ooo:8080/6199216/619002/167593
+#http://xtv.ooo:8080/6199216/619002/167593
+http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 #https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 http://xtv.ooo:8080/6199216/619002/167581
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS FHD
 https://catowrap.live/mrgamingbtsport2.m3u8
@@ -753,12 +759,12 @@ http://xtv.ooo:8080/T4S00515/820172/371470
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
 #https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
-http://xtv.ooo:8080/6199216/619002/167594
+#http://xtv.ooo:8080/6199216/619002/167594
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 #http://xtv.ooo:8080/6199216/619002/167594
-#https://catowrap.live/mrgamingcric.m3u8
-https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+https://catowrap.live/mrgamingcric.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event

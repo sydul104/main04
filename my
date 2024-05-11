@@ -598,8 +598,8 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
-#http://103.151.60.214:7444/1101/video.m3u8
-http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
+#http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
+http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #https://live-cdn.tsports.com/live-02/index.m3u8
 http://172.17.50.112/live/antbd1002/index.m3u8

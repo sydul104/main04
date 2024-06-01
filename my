@@ -609,7 +609,8 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
 #http://starshare.live:8080/live/Sylvia/Sylvia/304279.ts
-https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
+http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
@@ -634,7 +635,7 @@ http://172.17.50.112/live/antbd1002/index.m3u8
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #http://103.151.60.214:7444/1101/video.m3u8
-http://starshare.live:8080/live/Sylvia/Sylvia/18452.ts
+http://starshare.live:8080/live/007/007/130714.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 
@@ -644,7 +645,7 @@ http://103.151.60.214:7444/1102/video.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 #https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
-http://starshare.live:8080/live/Sylvia/Sylvia/767.ts
+http://starshare.live:8080/live/007/007/767.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 

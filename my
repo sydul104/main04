@@ -642,7 +642,7 @@ http://172.17.50.112/live/antbd1002/index.m3u8
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #http://103.151.60.214:7444/1101/video.m3u8
-http://starshare.live:8080/live/007/007/130714.m3u8
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 
@@ -660,7 +660,7 @@ http://starshare.live:8080/live/007/007/767.m3u8
 #http://11plus.live/live/stersports1hd/index.m3u8
 #http://172.17.50.112/live/fifa2022/index.m3u8
 #http://starshare.live:8080/live/Sylvia/Sylvia/98864.ts
-http://172.17.50.112/live/antbd1001/index.m3u8
+http://172.17.50.112/live/fifa2022/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
@@ -676,7 +676,8 @@ http://public.iptv18.tech/tata.php?id=12148
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #http://11plus.live/live/starsports2/index.m3u8
-http://xtv.ooo:8080/live/adnankb2006/86057314/220060.m3u8
+#http://xtv.ooo:8080/live/adnankb2006/86057314/220060.m3u8
+http://172.17.50.112/live/antbd1001/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 #http://103.120.172.74:4200

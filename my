@@ -9,19 +9,18 @@ https://livess.ncare.live/live-orgin/ve-orgin/btvbd-office-sg.stream/playlist.m3
 http://xtv.ooo:8080/live/shahz18/18usman/245930.ts
 
 #EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png" group-title="BANGLA",BTV CTG
-http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BANGLA",Sangsad TV
-#http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
-http://xtv.ooo:8080/live/shahz18/18usman/245940.ts
+
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 #http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #http://176.119.29.52/live.ts?channelId=115&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #https://raw.githubusercontent.com/gift4bd/ytm/main/SomoyTV.m3u8
 #http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
-#https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=115&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#http://tv.cloudcdn.me/live.ts?channelId=115&uid=8164&deviceMac=00:1A:79:17:D4:A1
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://11plus.live/live/71/index.m3u8
@@ -34,16 +33,14 @@ http://tv.cloudcdn.me/live.ts?channelId=95&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
 #http://176.119.29.52/live.ts?channelId=87&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
-#https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 #http://11plus.live/live/indepen/index.m3u8
 #http://176.119.29.52/live.ts?channelId=99&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
 #http://cdn01.palki.tv:80/live/Independent-M/tracks-v1a1/mono.m3u8
-#https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 
 
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV

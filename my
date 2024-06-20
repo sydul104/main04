@@ -418,6 +418,9 @@ https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music [youtub]
+https://www.youtube.com/watch?v=J5UjWwkrJUE
+
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
 #http://11plus.live/live/sunbangla/index.m3u8
 #http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8

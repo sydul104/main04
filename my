@@ -36,7 +36,7 @@ http://tv.cloudcdn.me/live.ts?channelId=95&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
 #http://176.119.29.52/live.ts?channelId=87&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
-3https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
@@ -664,7 +664,7 @@ http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLN5VG7QecDhiNPvF7JnP1cI/ts
 #http://11plus.live/live/stersports1hd/index.m3u8
 #http://starshare.live:8080/live/Sylvia/Sylvia/98864.ts
 http://172.17.50.112/live/fifa2022/index.m3u8
-http://xtv.ooo:8080/live/Minsa786/Fatima/109987.m3u8
+#http://xtv.ooo:8080/live/Minsa786/Fatima/109987.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8

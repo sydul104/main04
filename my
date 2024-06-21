@@ -615,21 +615,22 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLNvTb__FmoIaKEnBn3lkxOg/ts
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 #https://t.ly/Toffee-Match1-BN/Zubayer_Op.m3u8
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLPiFUiBSAu4UHJYw79Yd_b8/ts 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
+#http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLPiFUiBSAu4UHJYw79Yd_b8/ts
 https://retosbd.com/toffe/toffe.php?id=match-1
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
+https://tv5.hoichoi24.com/1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 #https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 https://retosbd.com/toffe/toffe.php?id=match-2
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
-http://public.iptv18.tech/tata.php?id=12169
-
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
+
+
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
-https://tv5.hoichoi24.com/1018/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="SPORTS", Live Sports-9

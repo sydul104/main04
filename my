@@ -550,7 +550,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLBASI_JJnSocnIjYO6ukgwA/ts
-http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://a2uy.short.gy/EURO-T/Zubayer_Op.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 http://113.212.111.246:8080/hls/col2.m3u8

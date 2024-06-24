@@ -353,14 +353,12 @@ http://mag.trexlive.me/Michael88/Michael88/156031
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
 #http://tv.cloudcdn.me/live.ts?channelId=153&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#http://195.26.87.217/live.ts?channelId=153&uid=7435&deviceMac=00:1A:79:51:4B:3A
-https://tplay.dinesh29.com.np/live/tataplay-universal/b4u-music/index.ts
+http://195.26.87.217/live.ts?channelId=153&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-87 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Music Mastii
 #http://11plus.live/live/masti/index.m3u8
 #http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
-#https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-https://tplay.dinesh29.com.np/live/tataplay-universal/mastiii/index.ts
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Music
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
@@ -568,8 +566,7 @@ http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220062.m3u8
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220065.m3u8
-#http://103.120.172.74:4600
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-sports-1-hd/index.ts
+http://103.120.172.74:4600
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8

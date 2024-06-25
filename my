@@ -18,6 +18,7 @@ https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekattor_tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://xtv.ooo:8080/global/global/245915
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
@@ -33,6 +34,7 @@ https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
 
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UOw90sy.png" group-title="BANGLA", Jago News 24
 
@@ -75,6 +77,7 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
@@ -181,14 +184,17 @@ http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Rongeen tv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids", Sony YAY
+http://xtv.ooo:8080/35588981/18988553/314753
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Pogo
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png" group-title="Kids", Cartoon Network English
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Hungama Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 
 
@@ -229,6 +235,9 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #http://11plus.live/live/travelxp/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",TLC
+https://fmrx.short.gy/TCL_HD/Join@AbidDthOfficial/ABID_DTH.m3u8
+
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
@@ -237,6 +246,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://xtv.ooo:8080/live/Minsa786/Fatima/109978.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
+https://fmrx.short.gy/Animal_Planet/Join@AbidDthOfficial/ABID_DTH.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
@@ -290,10 +300,14 @@ https://fmrx.short.gy/Colors_Bangla_Cinema/Join@AbidDthOfficial/ABID_DTH.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
+http://xtv.ooo:8080/global/global/245906
+
+#EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla Cinema
 https://tplay.dinesh29.com.np/live/tataplay-universal/ruposhi-bangla/index.ts
 
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
 https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath
 #http://176.119.29.52/live.ts?channelId=79&uid=5060&deviceMac=00:1A:79:73:9C:A1
@@ -489,7 +503,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English Movie",Sony Pix HD
-
+http://starshare.live:8080/live/2932010/2932010/147.ts
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://172.17.50.112/live/antbd1003/index.m3u8
@@ -663,10 +677,10 @@ http://121.91.61.106:8000/play/a04h/index.m3u8
 http://xtv.ooo:8080/global/global/167587
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
-#http://xtv.ooo:8080/live/adnankb2006/86057314/219689.m3u8
 #http://121.91.61.106:8000/play/a03o/index.m3u8
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLDO32iPx7fsxtSaFvoe0Q0k/ts
-http://xtv.ooo:8080/global/global/219689
+#http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLDO32iPx7fsxtSaFvoe0Q0k/ts
+#http://xtv.ooo:8080/global/global/219689
+https://fmrx.short.gy/A_SPORTS_HD/Join@AbidDthOfficial/ABID_DTH.ts
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167568.m3u8
@@ -674,7 +688,8 @@ http://xtv.ooo:8080/global/global/167568
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167583.m3u8
-http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
+#http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
+https://fmrx.short.gy/Willow_HD/Join@AbidDthOfficial/ABID_DTH.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 https://api.crickfanji.com/stream/Ph9eAMwBN8.m3u8

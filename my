@@ -3,7 +3,8 @@
 https://evbr.short.gy/BDStreamHub/btv_world.m3u
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
-http://xtv.ooo:8080/live/Minsa786/Fatima/245930.m3u8
+#http://xtv.ooo:8080/live/Minsa786/Fatima/245930.m3u8
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443289.m3u8
 
 #EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png" group-title="BANGLA",BTV CTG
 
@@ -13,7 +14,8 @@ http://xtv.ooo:8080/live/Minsa786/Fatima/245930.m3u8
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 #http://tv.cloudcdn.me/live.ts?channelId=115&uid=8164&deviceMac=00:1A:79:17:D4:A1
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443262.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekattor_tv
@@ -39,12 +41,14 @@ https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UOw90sy.png" group-title="BANGLA", Jago News 24
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443293.m3u8
 
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443292.m3u8
 
 #EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
 #https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
@@ -60,7 +64,7 @@ http://tv.cloudcdn.me/live.ts?channelId=114&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
-
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443290.m3u8
 
 #EXTINF:-15 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Boishakhi_TV_plus_logo.png/revision/latest/scale-to-width-down/1185?cb=20221020103718" group-title="BANGLA",BOISHAKHI Plus
 
@@ -77,7 +81,8 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
-http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
+#http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443285.m3u8
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
@@ -221,9 +226,12 @@ https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/i
 http://195.26.87.217/live.ts?channelId=176&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/national-geographic/index.ts
+#https://tplay.dinesh29.com.np/live/tataplay-universal/national-geographic/index.ts
+http://cf.hi-ott.me:80/live/iptvore/71536da247/441067.m3u8
+
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD [Ar]
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443297.m3u8
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 http://195.26.87.217/live.ts?channelId=177&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -267,7 +275,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/jalsha-movies-hd/index.ts
 #http://11plus.live/live/jalshamovies/index.m3u8
 #http://176.119.29.52/live.ts?channelId=117&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
-https://tgaadi-web.tech/5G/play.php?tv=586743
+http://cf.hi-ott.me:80/live/iptvore/71536da247/443298.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
 #http://103.109.56.116/live/skyfeed1004/index.m3u8

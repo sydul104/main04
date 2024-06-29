@@ -540,30 +540,23 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
 #http://103.120.172.74:4600
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLNvTb__FmoIaKEnBn3lkxOg/ts
+https://retosbd.com/toffe/toffe.php?id=match-1
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
-#https://t.ly/Toffee-Match1-BN/Zubayer_Op.m3u8
-#http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLPiFUiBSAu4UHJYw79Yd_b8/ts
-https://retosbd.com/toffe/toffe.php?id=match-1
-https://kicc.rkbdmoza.xyz/live.php?id=4edcfc36d49f&e=.m3u8 
+https://retosbd.com/toffe/toffe.php?id=match-2
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 https://tv5.hoichoi24.com/1018/tracks-v1a1/mono.m3u8
-#https://retosbd.com/toffe/toffe.php?id=match-2
+#https://retosbd.com/toffe/toffe.php?id=match-3
 http://xtv.ooo:8080/live/Minsa786/Fatima/109987.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 #https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+#https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/842181.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
-#http://xtv.ooo:8080/live/Minsa786/Fatima/109987.m3u8
-https://buddyxiptv.com/ottplatforms/toffee.php/?id=match-1/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
-https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="SPORTS", Live Sports-9
@@ -723,16 +716,16 @@ http://xtv.ooo:8080/global/global/167594
 http://xtv.ooo:8080/live/Minsa786/Fatima/220064.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLOi4bodPTJeW4xMXD5Es0bs/ts
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
+http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/842187.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Primeun League
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Football
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-1
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLIjzZGcOY6NR2zg6Sh8ILSM/ts
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167592.m3u8

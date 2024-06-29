@@ -239,6 +239,9 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #http://11plus.live/live/travelxp/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel+
+http://188.113.190.15/106/tracks-v1a1/index.m3u8
+
 #EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",TLC
 https://fmrx.short.gy/TCL_HD/Join@AbidDthOfficial/ABID_DTH.m3u8
 
@@ -527,13 +530,15 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movie",Lotus Macau
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Kingdom" tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="English Movie", Movies Kingdom
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movie",STAR WORLD HD (IN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movie",STAR WORLD HD
+http://188.113.190.15/111/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MN+" tvg-logo="https://i.imgur.com/56cCBrY.png" group-title="English Movie", MN+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English Movie", MNX-HD
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&PRIVE HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1280px-Fox_life_logo.svg.png" group-title="English Movie",Fox life
 #EXTINF:-1 tvg-logo="" group-title="English Movie" tvg-id="" tvg-name="", WB
 #EXTINF:0 tvg-id="" group-title="English Movie",Netflix Movies
+http://188.113.190.15/107/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" group-title="English Movie",Netflix Movies-2
 
 
@@ -779,7 +784,20 @@ http://145.239.5.177:8080/558/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",TruePremier_3
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Rush Sports
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",VTC-1
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",TRT
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FS-1
+https://katanaboss.online/chunklist/hlsch1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",MAT4
+http://188.113.190.15/6/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOOTBALL-1
+http://194.143.148.28:8080/MatchFutbol1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",ESPN
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",Fox Sports
@@ -799,6 +817,7 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png",RO | DIGI SPORT 1 FHD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png",RO | DIGI SPORT 2 FHD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png",RO | DIGI SPORT 3 FHD
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png",NBC GOLF FHD
 
 

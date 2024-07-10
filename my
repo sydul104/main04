@@ -283,7 +283,8 @@ http://watchindia.net:8880/live/65181/26572/2281.ts
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
 #https://tplay.dinesh29.com.np/live/tataplay-universal/jalsha-movies-hd/index.ts
-http://watchindia.net:8880/live/65181/26572/2282.ts
+#http://watchindia.net:8880/live/65181/26572/2282.ts
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/12979
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
 #http://11plus.live/live/jalshamovies/index.m3u8
@@ -300,11 +301,10 @@ http://tv.cloudcdn.me/live.ts?channelId=120&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://watchindia.net:8880/live/65181/26572/2283.ts
 
 #EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Zee_Bangla_Cinema.jpeg/200px-Zee_Bangla_Cinema.jpeg" group-title="Indian-Bangla",Zee Bangla Cinema
-#http://103.141.2.37:25461/web/web/598
 #http://xtv.ooo:8080/live/RiyazMPT/433833/245897.ts
 #https://fmrx.short.gy/Zee_Bangla_Cinema/Join@AbidDthOfficial/ABID_DTH.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=119&uid=8164&deviceMac=00:1A:79:17:D4:A1
-
+#http://tv.cloudcdn.me/live.ts?channelId=119&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/21658
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
@@ -328,7 +328,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/ruposhi-bangla/index.ts
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
 #https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
 #http://watchindia.net:8880/live/65181/26572/2286.ts
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/17005
 
 #EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath
 #http://176.119.29.52/live.ts?channelId=79&uid=5060&deviceMac=00:1A:79:73:9C:A1
@@ -344,7 +345,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Ruposhi Bangla
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/247527
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
@@ -392,20 +394,20 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193068
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Mtv
-http://mag.trexlive.me/Michael88/Michael88/156031
+#http://mag.trexlive.me/Michael88/Michael88/156031
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/193647
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
 #http://tv.cloudcdn.me/live.ts?channelId=153&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://195.26.87.217/live.ts?channelId=153&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-87 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Music Mastii
-#http://11plus.live/live/masti/index.m3u8
-#http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/76958
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Music
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
@@ -415,11 +417,15 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-87 tvg-logo="https://i.imgur.com/7A5PG3o.jpg" group-title="MUSIC", Mon Tv Bangla 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="" group-title="MUSIC",Hungama Digital
+#EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="" group-title="MUSIC",Only Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/264726
+
+#EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",ARY Music
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1398
+
 #EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="" group-title="MUSIC",Time tv Digital
 #EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="" group-title="MUSIC",E24
 #EXTINF:-87 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806" group-title="MUSIC",Sun Music
-#EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",ARY Music
 
 
 
@@ -455,7 +461,8 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/109952.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #http://watchindia.net:8880/live/94580/11406/783.ts
 #http://xtv.ooo:8080/live/shahz18/18usman/66181.ts
-http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16958
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 
@@ -463,17 +470,16 @@ http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold SD
 #http://xtv.ooo:8080/live/RiyazMPT/433833/109959.ts
 #http://xtv.ooo:8080/live/adnankb2006/86057314/221258.m3u8
-http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold-2
 
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-#http://watchindia.net:8880/live/94580/11406/784.ts
-#http://xtv.ooo:8080/live/shahz18/18usman/109960.ts
 #http://xtv.ooo:8080/live/RiyazMPT/433833/66176.ts
-http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#http://tv.cloudcdn.me/live.ts?channelId=197&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1070
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
 #http://103.120.172.74:1140
@@ -491,6 +497,7 @@ http://xtv.ooo:8080/live/Minsa786/Fatima/109958.m3u8
 http://103.120.172.74:4100
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
+#http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1353
 http://tv.cloudcdn.me/live.ts?channelId=207&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Amol Cinema
@@ -536,10 +543,13 @@ http://172.17.50.112/live/antbd1003/index.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 #http://xtv.ooo:8080/359052742/470428329/66213
+#http://tv.cloudcdn.me/live.ts?channelId=198&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://14.102.123.50:8200/play/a04c
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies Select HD
-http://14.102.123.50:8200/play/a04d
+#http://14.102.123.50:8200/play/a04d
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 
 #EXTINF:0 tvg-id="" group-title="English Movie",&flix
 #http://watchindia.net:8880/live/65181/26572/2088.ts
@@ -643,7 +653,8 @@ http://tv.cloudcdn.me/live.ts?channelId=298&uid=14505&deviceMac=00:1A:79:A7:53:7
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 #http://xtv.ooo:8080/live/Minsa786/Fatima/109988.m3u8
-http://xtv.ooo:8080/global/global/109988
+#http://xtv.ooo:8080/global/global/109988
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/3631
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",Star Sports 3
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167577.m3u8
@@ -658,7 +669,8 @@ http://tv.cloudcdn.me/live.ts?channelId=299&uid=14505&deviceMac=00:1A:79:A7:53:7
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167578.m3u8
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167578.m3u8
-http://xtv.ooo:8080/global/global/167578
+#http://xtv.ooo:8080/global/global/167578
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82628
 
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
 #http://103.120.172.74:4700
@@ -667,7 +679,8 @@ http://tv.cloudcdn.me/live.ts?channelId=300&uid=14505&deviceMac=00:1A:79:A7:53:7
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167579.m3u8
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167579.m3u8
-http://xtv.ooo:8080/global/global/167579
+#http://xtv.ooo:8080/global/global/167579
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16619
 
 
 #EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="SPORTS",Sports-18

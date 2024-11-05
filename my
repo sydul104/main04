@@ -760,7 +760,8 @@ http://xtv.ooo:8080/global/global/167587
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #http://121.91.61.106:8000/play/a03o/index.m3u8
 #http://xtv.ooo:8080/global/global/219689
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167568.m3u8
@@ -773,7 +774,8 @@ http://xtv.ooo:8080/global/global/167568
 https://fr.globalplay.live/Sports-19/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
-http://xtv.ooo:8080/global/global/167583
+#http://xtv.ooo:8080/global/global/167583
+https://crichd.onlinetvbd.com/m3u8.php/willowextra.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
@@ -825,10 +827,10 @@ http://opplex.tv:8080/live/15155419/16175512/346241.ts
 http://xtv.ooo:8080/global/global/167592
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
-https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://crichd.onlinetvbd.com/m3u8.php/supercricket.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
-
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
 http://opplex.tv:8080/live/15155419/16175512/238479.m3u8

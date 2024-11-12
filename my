@@ -651,7 +651,7 @@ https://cdn2.ihub.live/GTV/tracks-v1a1/mono.m3u8?token=d3d7a24d3e74a7aa86cdbab3f
 #http://172.17.50.112/live/fifa2022/index.m3u8
 #http://xtv.ooo:8080/global/global/220062
 #http://xtv.ooo:8080/global/global/167575
-https://cdn-bd.televisionbd.com/Star-Sports-1-HD/tracks-v1/index.fmp4.m3u8
+http://watchindia.net:8880/live/80817/80817/2232.ts
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220065.m3u8
@@ -666,7 +666,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220060.m3u8
 #http://103.120.172.74:4200
-http://tv.cloudcdn.me/live.ts?channelId=298&uid=14505&deviceMac=00:1A:79:A7:53:75
+#http://tv.cloudcdn.me/live.ts?channelId=298&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://watchindia.net:8880/live/80817/80817/1069.ts
 
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 

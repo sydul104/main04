@@ -546,7 +546,8 @@ http://103.84.57.155:8000/play/a084/index.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
-http://xtv.ooo:8080/global/global/66179
+#http://xtv.ooo:8080/global/global/66179
+http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 #http://103.120.172.74:1150
@@ -577,16 +578,18 @@ http://tv.cloudcdn.me/live.ts?channelId=377&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",AXN
-http://lifetvbd.xyz:8080/live/123/123/54.ts
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 #http://xtv.ooo:8080/359052742/470428329/66213
-http://tv.cloudcdn.me/live.ts?channelId=198&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#http://tv.cloudcdn.me/live.ts?channelId=198&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/66213.ts
+
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies Select HD
 #http://14.102.123.50:8200/play/a04d
 #http://tv.cloudcdn.me/live.ts?channelId=199&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+#http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/66315.ts
 
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
 #http://lifetvbd.xyz:8080/live/123/123/56.ts
@@ -603,7 +606,8 @@ http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movie",STAR WORLD HD
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Netflix Movies
-http://xtv.ooo:8080/global/global/238570
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/238570.ts
+
 
 
 
@@ -642,7 +646,8 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/167590.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
-https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
+#https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
+https://shounwifi.net/api/auto/tsports/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://113.212.111.246:8080/hls/col2.m3u8

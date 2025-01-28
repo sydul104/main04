@@ -20,7 +20,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
 #http://on.deflix.xyz:8880/kamrul19/kamrul1715/1333
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://tv.cloudcdn.me/live.ts?channelId=95&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -34,7 +35,8 @@ http://xtv.ooo:8080/live/danyear12/am809100/245915.ts
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
 #http://tv.cloudcdn.me/live.ts?channelId=87&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+#https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 #http://tv.cloudcdn.me/live.ts?channelId=99&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -288,6 +290,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/109978.ts
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 http://xtv.ooo:8080/live/danyear12/am809100/109975.ts
 
 
@@ -644,7 +647,8 @@ http://103.96.235.18:8080/sports1/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://113.212.111.246:8080/hls/col2.m3u8
-http://xtv.ooo:8080/live/danyear12/am809100/245901.ts
+#http://xtv.ooo:8080/live/danyear12/am809100/245901.ts
+https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
@@ -757,7 +761,8 @@ http://xtv.ooo:8080/live/danyear12/am809100/167567.ts
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 #http://175.107.244.52:4457/play/a08g/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=279&uid=14505&deviceMac=00:1A:79:A7:53:75
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+https://atg100.xyz/live/UL33K17/SYC4T9D/63126.m3u8
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167569.m3u8
@@ -778,12 +783,9 @@ http://xtv.ooo:8080/live/danyear12/am809100/167587.ts
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
-#http://xtv.ooo:8080/live/Minsa786/Fatima/167568.m3u8
-#http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-#http://xtv.ooo:8080/global/global/167568
-#http://xtv.ooo:8080/live/malik625538/digitalstore1year/167568.ts
 #http://175.107.244.52:4456/play/a06z/index.m3u8
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+http://xtv.ooo:8080/live/danyear12/am809100/167568.ts
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
@@ -792,7 +794,8 @@ http://tv.cloudcdn.me/live.ts?channelId=302&uid=14505&deviceMac=00:1A:79:A7:53:7
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 #http://xtv.ooo:8080/global/global/167583
 #https://crichd.onlinetvbd.com/m3u8.php/willowextra.m3u8
-http://xtv.ooo:8080/live/danyear12/am809100/167583.ts
+#http://xtv.ooo:8080/live/danyear12/am809100/167583.ts
+http://extraott.com/live/3969424152/3723991250/175793.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
@@ -893,7 +896,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/381332.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 #http://xtv.ooo:8080/global/global/381335
-http://xtv.ooo:8080/live/malik625538/digitalstore1year/381335.ts
+#http://xtv.ooo:8080/live/malik625538/digitalstore1year/381335.ts
 http://xtv.ooo:8080/live/danyear12/am809100/381335.ts
 
 

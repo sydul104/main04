@@ -346,6 +346,7 @@ https://cdn-2.pishow.tv/live/226/226_1.m3u8
 #http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8 
+http://kst.moonplex.net:8080/CH13/index.m3u8
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 

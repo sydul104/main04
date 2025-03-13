@@ -1,12 +1,14 @@
 #EXTM3U
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8
-
+#http://103.230.105.252:1935/live/btv/manifest.m3u8
+http://xtv.ooo:8080/213112/213112/245930
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
+http://xtv.ooo:8080/213112/213112/245908
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV News
+http://xtv.ooo:8080/213112/213112/245911
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
@@ -18,6 +20,7 @@ http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-2
+http://xtv.ooo:8080/213112/213112/245915
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA",Ekon tv
 #https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
@@ -27,22 +30,24 @@ http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
 http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
+#http://xtv.ooo:8080/213112/213112/245916
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
-http://xtv.ooo:8080/danyear12/am809100/245917
+http://xtv.ooo:8080/213112/213112/245917
 
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
 http://xtv.ooo:8080/danyear12/am809100/245903
 
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
+http://xtv.ooo:8080/213112/213112/245914
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 #http://xtv.ooo:8080/danyear12/am809100/245905
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
-http://xtv.ooo:8080/danyear12/am809100/245909
+http://xtv.ooo:8080/213112/213112/245909
 
 #EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
 http://103.163.247.39/local_out/ntv/video.m3u8?token=At5F1MFZYnciB3
@@ -61,20 +66,23 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
 #https://ekusheyserver.com/etvlivesn.m3u8
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://xtv.ooo:8080/213112/213112/245937
 
 #EXTINF:-17 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",Channel I
 http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
 #https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
+#http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
+http://103.163.247.39/local_out/deepto/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #https://entezeetv.fun/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
+#http://xtv.ooo:8080/213112/213112/245902
 http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
@@ -87,6 +95,7 @@ https://mytvbangla.com/0.m3u8
 
 #EXTINF:-33 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
 #https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#http://xtv.ooo:8080/213112/213112/245910
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Bijoy tv
@@ -144,7 +153,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=374&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #https://app.ncare.live/streams/makkahtv.stream/playlist.m3u8
 #https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
+#https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
+http://xtv.ooo:8080/213112/213112/4
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina live
 #https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
@@ -154,6 +164,7 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Peace tv Bangla
 #http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #http://tv.cloudcdn.me/live.ts?channelId=237&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#http://xtv.ooo:8080/213112/213112/11
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 
@@ -293,8 +304,8 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
-#http://xtv.ooo:8080/global/global/245906
-http://xtv.ooo:8080/danyear12/am809100/245906
+#http://xtv.ooo:8080/danyear12/am809100/245906
+http://xtv.ooo:8080/213112/213112/245906
 
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
 
@@ -304,6 +315,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
 
 #EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath
+http://xtv.ooo:8080/213112/213112/245928
 
 #EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s" group-title="Indian-Bangla",DD Bangla
 
@@ -313,8 +325,11 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #https://entezeetv.fun/bdcast/hls/index.m3u8?id=0RTkWfzB&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Ruposhi Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Ruposhi Bangla
+http://xtv.ooo:8080/213112/213112/245932
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 #http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8
@@ -340,13 +355,14 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
+http://xtv.ooo:8080/213112/213112/245921
 
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
 #http://11plus.live/live/sunbangla/index.m3u8
 #http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
-http://xtv.ooo:8080/danyear12/am809100/245933
+http://xtv.ooo:8080/213112/213112/245933
 
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8

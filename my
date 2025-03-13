@@ -576,16 +576,18 @@ http://xtv.ooo:8080/danyear12/am809100/167590
 http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
 
 
-
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
+http://172.16.88.10:18190/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
+http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://172.17.50.112/live/fifa2022/index.m3u8
-http://xtv.ooo:8080/danyear12/am809100/220062
+#http://xtv.ooo:8080/danyear12/am809100/220062
+http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
@@ -628,7 +630,8 @@ http://xtv.ooo:8080/danyear12/am809100/167579
 #EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="SPORTS",Sports-18
 #http://103.120.172.74:5500
 #http://tv.cloudcdn.me/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75
-http://xtv.ooo:8080/danyear12/am809100/382205
+#http://xtv.ooo:8080/danyear12/am809100/382205
+http://172.16.88.30:18190/sports18/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 #http://xtv.ooo:8080/global/global/167570
@@ -664,14 +667,13 @@ http://xtv.ooo:8080/danyear12/am809100/167580
 #http://xtv.ooo:8080/global/global/167567
 #https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
 #http://103.84.57.155:8000/play/a0b4/index.m3u8
-http://xtv.ooo:8080/live/danyear12/am809100/167567.ts
-http://xtv.ooo:8080/danyear12/am809100/220059
+http://172.16.88.40:18190/ptvsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 #http://175.107.244.52:4457/play/a08g/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-https://atg100.xyz/live/UL33K17/SYC4T9D/63126.m3u8
+http://xtv.ooo:8080/danyear12/am809100/220059
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167569.m3u8
@@ -684,7 +686,8 @@ http://xtv.ooo:8080/danyear12/am809100/220060
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
 #http://xtv.ooo:8080/global/global/167587
-http://xtv.ooo:8080/danyear12/am809100/167587
+#http://xtv.ooo:8080/danyear12/am809100/167587
+http://172.16.88.40:18190/tencricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #http://121.91.61.106:8000/play/a03o/index.m3u8

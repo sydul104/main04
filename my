@@ -34,13 +34,15 @@ http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
-http://xtv.ooo:8080/213112/213112/245917
+#http://xtv.ooo:8080/213112/213112/245917
+http://kst.moonplex.net:8080/CH5/index.m3u8
 
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
 http://xtv.ooo:8080/danyear12/am809100/245903
 
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
-http://xtv.ooo:8080/213112/213112/245914
+#http://xtv.ooo:8080/213112/213112/245914
+http://kst.moonplex.net:8080/CH15/index.m3u8
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 #http://xtv.ooo:8080/danyear12/am809100/245905
@@ -205,12 +207,14 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #http://11plus.live/live/discovery/index.m3u8
 #https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #http://xtv.ooo:8080/live/danyear12/am809100/206287.ts
-http://xtv.ooo:8080/danyear12/am809100/206287
+http://kst.moonplex.net:8080/CH9/index.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-http://bd.bdix.xyz:8880/live/789865437/789865437/19779.m3u8
+#http://bd.bdix.xyz:8880/live/789865437/789865437/19779.m3u8
+http://xtv.ooo:8080/danyear12/am809100/206287
+
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 
@@ -509,7 +513,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movie",Sony Pix
-http://212.102.34.8:9080/SonyPixHD/video.m3u8
+#http://212.102.34.8:9080/SonyPixHD/video.m3u8
+http://kst.moonplex.net:8080/CH8/index.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Lotus
 
@@ -586,13 +591,13 @@ http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://172.17.50.112/live/fifa2022/index.m3u8
-#http://xtv.ooo:8080/danyear12/am809100/220062
-http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
+http://kst.moonplex.net:8080/CH10/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
 #http://tv.cloudcdn.me/live.ts?channelId=293&uid=14505&deviceMac=00:1A:79:A7:53:75
-http://xtv.ooo:8080/danyear12/am809100/167575
+#http://xtv.ooo:8080/danyear12/am809100/167575
+http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
@@ -673,7 +678,8 @@ http://172.16.88.40:18190/ptvsports/tracks-v1a1/mono.m3u8
 #http://175.107.244.52:4457/play/a08g/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-http://xtv.ooo:8080/danyear12/am809100/220059
+#http://xtv.ooo:8080/danyear12/am809100/220059
+http://xtv.ooo:8080/danyear12/am809100/220062
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167569.m3u8

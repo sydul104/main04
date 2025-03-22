@@ -223,10 +223,11 @@ http://xtv.ooo:8080/danyear12/am809100/206287
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://11plus.live/live/ngohd/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=176&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://xtv.ooo:8080/danyear12/am809100/206285
+http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
-http://45.148.145.57/IND_NationalGeoHD/index.m3u8
+#http://45.148.145.57/IND_NationalGeoHD/index.m3u8
+http://xtv.ooo:8080/danyear12/am809100/206285
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 http://xtv.ooo:8080/danyear12/am809100/206286

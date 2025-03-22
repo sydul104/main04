@@ -591,7 +591,8 @@ http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://172.17.50.112/live/fifa2022/index.m3u8
-http://kst.moonplex.net:8080/CH10/index.m3u8
+#http://kst.moonplex.net:8080/CH10/index.m3u8
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
@@ -605,6 +606,7 @@ http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
+http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 #http://xtv.ooo:8080/global/global/167576

@@ -88,6 +88,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
@@ -207,7 +208,8 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #http://11plus.live/live/discovery/index.m3u8
 #https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #http://xtv.ooo:8080/live/danyear12/am809100/206287.ts
-http://kst.moonplex.net:8080/CH9/index.m3u8
+#http://kst.moonplex.net:8080/CH9/index.m3u8
+http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi

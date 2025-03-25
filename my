@@ -589,7 +589,8 @@ http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://113.212.111.246:8080/hls/col12.m3u8
 #http://xtv.ooo:8080/live/malik625538/digitalstore1year/245901.ts
-http://xtv.ooo:8080/danyear12/am809100/167590
+#http://xtv.ooo:8080/danyear12/am809100/167590
+http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.96.235.18:8080/sports1/index.m3u8
@@ -628,7 +629,8 @@ http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 #http://xtv.ooo:8080/global/global/167576
 #http://xtv.ooo:8080/live/danyear12/am809100/109988.ts
-http://xtv.ooo:8080/danyear12/am809100/167576
+#http://xtv.ooo:8080/danyear12/am809100/167576
+http://172.16.88.30:18190/starsports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",Star Sports 3
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167577.m3u8

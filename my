@@ -212,14 +212,13 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #http://kst.moonplex.net:8080/CH9/index.m3u8
 http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 
-
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 #http://bd.bdix.xyz:8880/live/789865437/789865437/19779.m3u8
 http://xtv.ooo:8080/danyear12/am809100/206287
 
-
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
+http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 
@@ -236,6 +235,7 @@ http://xtv.ooo:8080/danyear12/am809100/206285
 http://xtv.ooo:8080/danyear12/am809100/206286
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Wild Earth
+http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
 
 #EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp Bangla
 http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
@@ -252,14 +252,16 @@ http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://xtv.ooo:8080/danyear12/am809100/109978
-http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
+#http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
+http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-http://xtv.ooo:8080/danyear12/am809100/109975
+#http://xtv.ooo:8080/danyear12/am809100/109975
+http://103.122.74.6:8888/hls/ANIMAL.PLANET.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
 

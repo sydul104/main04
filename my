@@ -573,9 +573,10 @@ http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 #http://xtv.ooo:8080/live/danyear12/am809100/109987.ts
 http://xtv.ooo:8080/213112/213112/109987
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2 (toffee)
 #https://criccoder.pages.dev/astro.m3u8
-http://xtv.ooo:8080/213112/213112/346373
+#http://xtv.ooo:8080/213112/213112/346373
+https://fredflix.fun/play.php?id=67e91f1da0ce3
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8

@@ -576,7 +576,8 @@ http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #http://xtv.ooo:8080/live/malik625538/digitalstore1year/245901.ts
 #http://xtv.ooo:8080/danyear12/am809100/167590
 #http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
-http://isp.top10bhaluka.com/tv/stream.m3u8?id=T-SPORTS
+#http://isp.top10bhaluka.com/tv/stream.m3u8?id=T-SPORTS
+https://www.tbn24.com/api/video/4031_0.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.96.235.18:8080/sports1/index.m3u8
@@ -598,7 +599,8 @@ http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://172.17.50.112/live/fifa2022/index.m3u8
 #http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
-http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+#http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+https://www.tbn24.com/api/video/4028_0.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
@@ -614,7 +616,8 @@ http://drk.yasarpro.com:80/play/live.php?mac=00:1A:79:A6:7F:86&stream=39965&exte
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-http://xtv.ooo:8080/live/danyear12/am809100/109988.ts
+#http://xtv.ooo:8080/live/danyear12/am809100/109988.ts
+https://bongoflixbd.top/crichd/stream.php?id=star1in&e=.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 #http://xtv.ooo:8080/global/global/167576
@@ -625,7 +628,8 @@ http://xtv.ooo:8080/danyear12/am809100/167576
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167577.m3u8
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167577.m3u8
 #http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
-http://xtv.ooo:8080/danyear12/am809100/167577
+#http://xtv.ooo:8080/danyear12/am809100/167577
+http://fcluster.mytvxweb.com:8880/4151820/index.m3u8?token=CP3Q3MDSVQVIP
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 #http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
@@ -727,6 +731,7 @@ http://xtv.ooo:8080/danyear12/am809100/167568
 http://xtv.ooo:8080/live/danyear12/am809100/167583.ts
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
+https://bongoflixbd.top/crichd/stream.php?id=willowusa&e=.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC

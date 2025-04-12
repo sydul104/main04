@@ -6,7 +6,7 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
 #http://xtv.ooo:8080/213112/213112/245908
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709-audio_113392_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV News
 #http://xtv.ooo:8080/danyear12/am809100/245922
@@ -16,34 +16,33 @@ http://xtv.ooo:8080/213112/213112/245911
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702-audio_113322_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://xtv.ooo:8080/danyear12/am809100/245915
 #http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-2
 http://xtv.ooo:8080/213112/213112/245915
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA",Ekon tv
 #https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
-#http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
-https://tvs1.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=23ac04845772e78bf9c34b7213b7a7300f044348-00c00807725eb0840ded2074abf27690-1744021360-1744020460
+http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
 #http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 #http://xtv.ooo:8080/213112/213112/245916
 #http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
 
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
 #http://xtv.ooo:8080/213112/213112/245917
 #http://kst.moonplex.net:8080/CH5/index.m3u8
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/1701-audio_113312_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/1701.m3u8
 
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
 http://xtv.ooo:8080/danyear12/am809100/245903
@@ -55,22 +54,22 @@ http://kst.moonplex.net:8080/CH15/index.m3u8
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 #http://xtv.ooo:8080/danyear12/am809100/245905
 #http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
 
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #http://xtv.ooo:8080/213112/213112/245909
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722-audio_113522_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722.m3u8
 
 #EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
 #http://103.163.247.39/local_out/ntv/video.m3u8?token=At5F1MFZYnciB3
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716-audio_113462_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 #http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715-audio_113452_eng=113200.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715.m3u8
 
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3

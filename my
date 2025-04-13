@@ -759,13 +759,15 @@ http://xtv.ooo:8080/danyear12/am809100/371470
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
 #http://xtv.ooo:8080/global/global/167594
-http://xtv.ooo:8080/danyear12/am809100/167594
+https://wowza1.leisertv.com/live/skysportscrickethd.stream/chunklist_w140556680.m3u8
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 #http://xtv.ooo:8080/global/global/220064
 #http://xtv.ooo:8080/live/danyear12/am809100/220064.ts
 #https://crichd.iptvbd.xyz/m3u8.php/skyscric.m3u8
-http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
+#http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
+http://xtv.ooo:8080/danyear12/am809100/167594
+
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
 
@@ -886,6 +888,34 @@ https://jett5.routemachine.site/v3-hls-playback/fab33e2c4a3cd1862ad01cbbd0ec9f6f
 
 #EXTINF:-1 tvg-logo=""group-title="Movie", 2073
 https://jett3.routemachine.site/v3-hls-playback/3c1c0df05716cf6369e4c329982e0bfc8f7b14eb97d02269479ed7c814a9b3dca11a6382abffa47285775ff23e1526a084a632d9b9ea604cb092a1a1e289c5b311aaf5eafdaecbcd0dd110f6ccbc063e49b21fd9579dba5df859c26d6670b8e00b9f527ebf297e73c45e2facca180db10a3ca32ecc1a240668d99c213b92831678a3b1c21d708344efc77e67db12c2f12ba1cf938b4f786aa7e73a560aeb372d77ee67c34daf3fda5d2f203d02ad47b292f5a1c30a0ca9865084a51d54f7f20b/1080/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SR" ,1
+http://172.16.29.34/ontest1/ontest1/317
+#EXTINF:-1 tvg-logo="" group-title="SR" ,2
+http://172.16.29.34/ontest1/ontest1/238
+#EXTINF:-1 tvg-logo="" group-title="SR" ,3
+http://172.16.29.34/ontest1/ontest1/446
+#EXTINF:-1 tvg-logo="" group-title="SR" ,4
+http://172.16.29.34/ontest1/ontest1/294
+#EXTINF:-1 tvg-logo="" group-title="SR" ,5
+http://172.16.29.34/ontest1/ontest1/312
+#EXTINF:-1 tvg-logo="" group-title="SR" ,6
+http://172.16.29.34/ontest1/ontest1/395
+#EXTINF:-1 tvg-logo="" group-title="SR" ,7
+http://172.16.29.34/ontest1/ontest1/323
+#EXTINF:-1 tvg-logo="" group-title="SR" ,8
+http://172.16.29.34/ontest1/ontest1/387
+#EXTINF:-1 tvg-logo="" group-title="SR" ,9
+http://172.16.29.34/ontest1/ontest1/181
+#EXTINF:-1 tvg-logo="" group-title="SR" ,10
+http://172.16.29.34/ontest1/ontest1/233
+
+
+
+
 
 
 

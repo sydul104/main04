@@ -58,7 +58,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
 
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #http://xtv.ooo:8080/213112/213112/245909
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722.m3u8
+#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722.m3u8
+http://38.96.178.201/live/ATNBangla/index.m3u8
 
 #EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
 #http://103.163.247.39/local_out/ntv/video.m3u8?token=At5F1MFZYnciB3

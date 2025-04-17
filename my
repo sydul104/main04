@@ -100,7 +100,6 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
-http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
@@ -255,8 +254,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel+
 
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
-#https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://xtv.ooo:8080/danyear12/am809100/109978
@@ -587,13 +586,8 @@ https://cdn.hoichoi24.com/LIVE/video.m3u8
 
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
-#http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
-http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-#http://172.16.88.10:18190/gtv/tracks-v1a1/mono.m3u8
-http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 
@@ -687,10 +681,7 @@ http://xtv.ooo:8080/danyear12/am809100/167595
 http://xtv.ooo:8080/danyear12/am809100/167580
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-#http://xtv.ooo:8080/global/global/167567
-#https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
-#http://103.84.57.155:8000/play/a0b4/index.m3u8
-http://172.16.88.40:18190/ptvsports/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/danyear12/am809100/167567
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 #http://175.107.244.52:4457/play/a08g/index.m3u8
@@ -709,9 +700,8 @@ http://xtv.ooo:8080/danyear12/am809100/220060
 
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
-#http://xtv.ooo:8080/global/global/167587
-#http://xtv.ooo:8080/danyear12/am809100/167587
-http://172.16.88.40:18190/tencricket/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/danyear12/am809100/167587
+
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #http://121.91.61.106:8000/play/a03o/index.m3u8
@@ -817,29 +807,25 @@ http://xtv.ooo:8080/danyear12/am809100/238480
 #EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.svg" group-title="SPORTS",BT Sports-3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English
-http://103.122.74.6:8888/hls/SONY.SPORTS.1HD.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
-http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
-http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 2  Premium
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
-#http://xtv.ooo:8080/global/global/381330
-http://xtv.ooo:8080/live/danyear12/am809100/381330.ts
+http://xtv.ooo:8080/danyear12/am809100/381330
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
+http://xtv.ooo:8080/danyear12/am809100/381331
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-http://xtv.ooo:8080/live/danyear12/am809100/381332.ts
+http://xtv.ooo:8080/danyear12/am809100/381332
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-#http://xtv.ooo:8080/global/global/381335
-#http://xtv.ooo:8080/live/malik625538/digitalstore1year/381335.ts
-http://xtv.ooo:8080/live/danyear12/am809100/381335.ts
+http://xtv.ooo:8080/danyear12/am809100/381335
+
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
@@ -899,20 +885,6 @@ http://172.16.29.34/ontest1/ontest1/317
 http://172.16.29.34/ontest1/ontest1/238
 #EXTINF:-1 tvg-logo="" group-title="SR" ,3
 http://172.16.29.34/ontest1/ontest1/446
-#EXTINF:-1 tvg-logo="" group-title="SR" ,4
-http://172.16.29.34/ontest1/ontest1/294
-#EXTINF:-1 tvg-logo="" group-title="SR" ,5
-http://172.16.29.34/ontest1/ontest1/312
-#EXTINF:-1 tvg-logo="" group-title="SR" ,6
-http://172.16.29.34/ontest1/ontest1/395
-#EXTINF:-1 tvg-logo="" group-title="SR" ,7
-http://172.16.29.34/ontest1/ontest1/323
-#EXTINF:-1 tvg-logo="" group-title="SR" ,8
-http://172.16.29.34/ontest1/ontest1/387
-#EXTINF:-1 tvg-logo="" group-title="SR" ,9
-http://172.16.29.34/ontest1/ontest1/181
-#EXTINF:-1 tvg-logo="" group-title="SR" ,10
-http://172.16.29.34/ontest1/ontest1/233
 
 
 

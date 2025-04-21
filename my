@@ -583,7 +583,8 @@ https://www.tbn24.com/api/video/4031_0.m3u8
 #http://103.96.235.18:8080/sports1/index.m3u8
 #https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 #http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
-https://cdn.hoichoi24.com/LIVE/video.m3u8
+#https://cdn.hoichoi24.com/LIVE/video.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8
 
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
@@ -683,6 +684,7 @@ http://xtv.ooo:8080/danyear12/am809100/167580
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 http://xtv.ooo:8080/danyear12/am809100/167567
+https://tvs2.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 #http://175.107.244.52:4457/play/a08g/index.m3u8

@@ -17,7 +17,6 @@ http://xtv.ooo:8080/213112/213112/245911
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://xtv.ooo:8080/danyear12/am809100/245915
@@ -74,7 +73,6 @@ http://38.96.178.201/live/ATNBangla/index.m3u8
 http://38.96.178.201/live/NTV/index.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
-http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 #http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
@@ -115,15 +113,13 @@ http://38.96.178.201/live/Channel9/index.m3u8
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
-http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-33 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
 #https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
-#http://xtv.ooo:8080/213112/213112/245910
-http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+http://xtv.ooo:8080/213112/213112/245910
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Bijoy tv
 #http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
@@ -233,7 +229,6 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #http://11plus.live/live/discovery/index.m3u8
 #https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #http://xtv.ooo:8080/live/danyear12/am809100/206287.ts
-#http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
@@ -599,15 +594,12 @@ http://38.96.178.201/live/TSports/index.m3u8
 #http://113.212.111.246:8080/hls/col12.m3u8
 #http://xtv.ooo:8080/live/malik625538/digitalstore1year/245901.ts
 #http://xtv.ooo:8080/danyear12/am809100/167590
-#http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
-#http://isp.top10bhaluka.com/tv/stream.m3u8?id=T-SPORTS
-https://www.tbn24.com/api/video/4031_0.m3u8
+https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.96.235.18:8080/sports1/index.m3u8
 #https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 #http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
-#https://cdn.hoichoi24.com/LIVE/video.m3u8
 https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8
 
 
@@ -629,8 +621,8 @@ https://www.tbn24.com/api/video/4028_0.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
 #http://tv.cloudcdn.me/live.ts?channelId=293&uid=14505&deviceMac=00:1A:79:A7:53:75
-#http://xtv.ooo:8080/danyear12/am809100/167575
-http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
+#http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
+http://xtv.ooo:8080/danyear12/am809100/167575
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
@@ -652,8 +644,7 @@ http://xtv.ooo:8080/danyear12/am809100/167576
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167577.m3u8
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167577.m3u8
 #http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
-#http://xtv.ooo:8080/danyear12/am809100/167577
-http://fcluster.mytvxweb.com:8880/4151820/index.m3u8?token=CP3Q3MDSVQVIP
+http://xtv.ooo:8080/danyear12/am809100/167577
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 #http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
@@ -665,7 +656,6 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://xtv.ooo:8080/danyear12/am809100/167578
 
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
-http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167579.m3u8
@@ -676,8 +666,7 @@ http://xtv.ooo:8080/danyear12/am809100/167579
 #EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="SPORTS",Sports-18
 #http://103.120.172.74:5500
 #http://tv.cloudcdn.me/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75
-#http://xtv.ooo:8080/danyear12/am809100/382205
-http://172.16.88.30:18190/sports18/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/danyear12/am809100/382205
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 #http://xtv.ooo:8080/global/global/167570
@@ -704,7 +693,6 @@ http://xtv.ooo:8080/danyear12/am809100/167572
 http://xtv.ooo:8080/danyear12/am809100/167595
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 SD
-http://172.19.178.49:18190/sonysportsten5/tracks-v1/index.fmp4.m3u8?token=9770790ff6d186eb8ca32fde5f21d46059710ac7-3086f0691870ece8a1fe886e24f0db53-1745409316-1745398516
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
 #http://tv.cloudcdn.me/live.ts?channelId=105350&uid=16068&deviceMac=00:1A:79:ED:10:29

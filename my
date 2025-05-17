@@ -173,13 +173,14 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-58 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="English News",BBC News
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 
 #EXTINF:-59 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
 #http://tv.cloudcdn.me/live.ts?channelId=50&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
+#http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -258,7 +259,8 @@ https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://11plus.live/live/ngohd/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=176&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
+#http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
+http://172.19.178.142:18190/natgeowild/tracks-v1/index.fmp4.m3u8?token=0475b07dbc4f224f6994496d23fe76bbc0353f83-6378bbaf9ba0d1602e962ce6b8c69de0-1747467122-1747456322
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #http://45.148.145.57/IND_NationalGeoHD/index.m3u8
@@ -270,6 +272,7 @@ http://xtv.ooo:8080/danyear12/am809100/206286
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Wild Earth
 
 #EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp Bangla
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
 #http://11plus.live/live/travelxp/index.m3u8
@@ -503,6 +506,9 @@ http://xtv.ooo:8080/danyear12/am809100/66176
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee One
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/1c1ecdc6-be34-4ea2-bde9-8e30209e896b/2.m3u8
+
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 #http://tv.cloudcdn.me/live.ts?channelId=214&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://xtv.ooo:8080/213112/213112/109958
@@ -514,7 +520,7 @@ http://xtv.ooo:8080/danyear12/am809100/66191
 
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Amol Cinema
-
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
 
@@ -588,7 +594,7 @@ http://xtv.ooo:8080/213112/213112/109987
 http://xtv.ooo:8080/213112/213112/346373
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
@@ -626,8 +632,7 @@ http://172.19.178.49:18190/tsports/tracks-v1/index.fmp4.m3u8?token=b4497a0573a01
 http://38.96.178.201/live/GaziTV/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=0a75658ee17f22b7f61c88646ab60edd00b88c47-83d97d2342526b5b27c6854423418f9f-1746628856-1746618056
-
+http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=2e0e628bb7f2d7a64e0b88e989aeea3c96dfadd8-32186ba1e05db68f8d22fe026ee5e9ad-1747466625-1747455825
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 
@@ -878,6 +883,14 @@ http://xtv.ooo:8080/danyear12/am809100/381335
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",RTV Sports
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sport Italia So
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/chunklist_b4096000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FIFA+
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/c2b15f8b-20f5-4204-9c18-d81dff06ada6/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Raching.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",Bein Sports 1 Tru

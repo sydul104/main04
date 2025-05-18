@@ -598,7 +598,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
-http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
@@ -632,7 +632,7 @@ http://172.19.178.49:18190/tsports/tracks-v1/index.fmp4.m3u8?token=b4497a0573a01
 http://38.96.178.201/live/GaziTV/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=2e0e628bb7f2d7a64e0b88e989aeea3c96dfadd8-32186ba1e05db68f8d22fe026ee5e9ad-1747466625-1747455825
+
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 
@@ -640,19 +640,20 @@ http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=2e0e628bb7f2d7a64
 #http://172.17.50.112/live/fifa2022/index.m3u8
 #http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-https://www.tbn24.com/api/video/4028_0.m3u8
+#https://www.tbn24.com/api/video/4028_0.m3u8
+http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
 #http://tv.cloudcdn.me/live.ts?channelId=293&uid=14505&deviceMac=00:1A:79:A7:53:75
-#http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
-http://xtv.ooo:8080/danyear12/am809100/167575
+#http://xtv.ooo:8080/danyear12/am809100/167575
+http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220063.m3u8
-#http://41.205.93.154/STARSPORTS1/index.m3u8
-http://drk.yasarpro.com:80/play/live.php?mac=00:1A:79:A6:7F:86&stream=39965&extension=m3u8
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8

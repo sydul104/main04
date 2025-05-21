@@ -286,7 +286,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://xtv.ooo:8080/danyear12/am809100/109978
-http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
+#http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
+http://m3u.denver1769.fun/port/trex.php?id=1118064|User-Agent=Denver1769
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
@@ -432,12 +433,14 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #http://kst.moonplex.net:8080/CH13/index.m3u8
 #http://app.luckonline.eu:80/Sohail02/myQYkEntaxuZ/615
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
+http://m3u.denver1769.fun/port/trex.php?id=156120|User-Agent=Denver1769
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Mtv
+http://m3u.denver1769.fun/port/trex.php?id=280760|User-Agent=Denver1769
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
@@ -447,13 +450,13 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/07cc2c26-8410-4318-8b0d-49b418e4855f/3.m3u8
 #https://sabliveyupp.akamaized.net/mastii/mastii_poc_800k.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/f8e6c0d9-5e45-4cb5-837d-4c66b4a3813a/1.m3u8
+http://m3u.denver1769.fun/port/trex.php?id=156050|User-Agent=Denver1769
 
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC", Zing
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Music
-
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Hits
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/7A5PG3o.jpg" group-title="MUSIC", Mon Tv Bangla 
@@ -501,6 +504,7 @@ http://xtv.ooo:8080/213112/213112/109959
 http://xtv.ooo:8080/danyear12/am809100/66176
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
+http://m3u.denver1769.fun/port/trex.php?id=280773|User-Agent=Denver1769
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee Bolly Wood HD
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -523,7 +527,7 @@ http://xtv.ooo:8080/danyear12/am809100/66191
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
-
+http://m3u.denver1769.fun/port/trex.php?id=959|User-Agent=Denver1769
 
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
 http://xtv.ooo:8080/213112/213112/66174
@@ -621,11 +625,9 @@ https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.96.235.18:8080/sports1/index.m3u8
-#https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 #http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
 #https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8
-http://172.19.178.49:18190/tsports/tracks-v1/index.fmp4.m3u8?token=b4497a0573a013f1daf74e6b4977b29a727835d5-0316f9520c7ccc95dacc3089762b0406-1746629002-1746618202
-
+https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=ea5c8496461408cfa6226102e90f37d020613815-94b3b90c1650a2e9a07f1e1bfa664aee-1745409143-1745398343
@@ -647,7 +649,8 @@ http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 #http://103.120.172.74:4600
 #http://tv.cloudcdn.me/live.ts?channelId=293&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://xtv.ooo:8080/danyear12/am809100/167575
-http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
+#http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
+http://m3u.denver1769.fun/port/trex.php?id=155968|User-Agent=Denver1769
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
@@ -784,7 +787,8 @@ http://xtv.ooo:8080/danyear12/am809100/167593
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167581.m3u8
 #http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=26034&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://xtv.ooo:8080/danyear12/am809100/167581
+#http://xtv.ooo:8080/danyear12/am809100/167581
+http://m3u.denver1769.fun/port/trex.php?id=315181|User-Agent=Denver1769
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS FHD
 

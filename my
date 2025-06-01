@@ -13,7 +13,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/245922
 #http://xtv.ooo:8080/213112/213112/245911
 #https://m+l@d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
-http://xtv.ooo:8080/live/Jawad1994/03112371534/245911.ts
+http://xtv.ooo:8080/61434342387/52400214/245911
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
@@ -98,7 +98,9 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #http://xtv.ooo:8080/213112/213112/245937
-http://xtv.ooo:8080/live/Jawad1994/03112371534/245937.ts
+http://xtv.ooo:8080/61434342387/52400214/245937
+
+
 
 #EXTINF:-17 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",Channel I
 #http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
@@ -229,7 +231,8 @@ http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Rongeen tv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids", Sony YAY
-http://xtv.ooo:8080/danyear12/am809100/314753
+http://xtv.ooo:8080/61434342387/52400214/314753
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
@@ -252,7 +255,8 @@ http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 #http://bd.bdix.xyz:8880/live/789865437/789865437/19779.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/206287
-http://xtv.ooo:8080/live/Jawad1994/03112371534/206287.ts
+http://xtv.ooo:8080/61434342387/52400214/206287
+
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
@@ -270,11 +274,13 @@ http://172.19.178.142:18190/natgeowild/tracks-v1/index.fmp4.m3u8?token=0475b07db
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/206285
-http://xtv.ooo:8080/live/Jawad1994/03112371534/206285.ts
+http://xtv.ooo:8080/61434342387/52400214/206285
+
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 #http://xtv.ooo:8080/danyear12/am809100/206286
-http://xtv.ooo:8080/live/Jawad1994/03112371534/206286.ts
+http://xtv.ooo:8080/61434342387/52400214/206286
+
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Wild Earth
 
@@ -302,7 +308,8 @@ http://m3u.denver1769.fun/port/trex.php?id=1118064|User-Agent=Denver1769
 #https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/109975
-http://xtv.ooo:8080/live/Jawad1994/03112371534/109975.m3u8
+http://xtv.ooo:8080/61434342387/52400214/109975
+
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
@@ -332,7 +339,8 @@ http://38.96.178.201/live/JalshaMovies/index.m3u8
 #http://11plus.live/live/jalshamovies/index.m3u8
 #http://103.190.85.38/hls/zeemovie.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://xtv.ooo:8080/danyear12/am809100/245900
+http://xtv.ooo:8080/61434342387/52400214/245900
+
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
@@ -361,7 +369,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/245906
 #http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 #http://xtv.ooo:8080/213112/213112/245906
-http://xtv.ooo:8080/live/Jawad1994/03112371534/245906.ts
+http://xtv.ooo:8080/61434342387/52400214/245906
+
 
 
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
@@ -373,8 +382,9 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
 
 #EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath
-http://xtv.ooo:8080/213112/213112/245928
-http://xtv.ooo:8080/live/Jawad1994/03112371534/245928.ts
+#http://xtv.ooo:8080/213112/213112/245928
+http://xtv.ooo:8080/61434342387/52400214/245928
+
 
 #EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s" group-title="Indian-Bangla",DD Bangla
 http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
@@ -495,32 +505,32 @@ https://cdn-2.pishow.tv/live/228/228_1.m3u8
 #http://xtv.ooo:8080/global/global/109952
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208482_und=208000.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/109952
-http://xtv.ooo:8080/live/Jawad1994/03112371534/109952.ts
+http://xtv.ooo:8080/61434342387/52400214/109952
 
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
 #http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
 #http://humsab.xyz/IN_PICURES/tracks-v1a1/mono.m3u8
 #http://xtv.ooo:8080/213112/213112/66181
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66181.ts
+http://xtv.ooo:8080/61434342387/52400214/66181
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Thrills
-http://xtv.ooo:8080/danyear12/am809100/221258
-http://xtv.ooo:8080/live/Jawad1994/03112371534/221258.ts
+#http://xtv.ooo:8080/danyear12/am809100/221258
+http://xtv.ooo:8080/61434342387/52400214/221258
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://xtv.ooo:8080/danyear12/am809100/66177
 #http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 #http://xtv.ooo:8080/213112/213112/66177
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66177.ts
+http://xtv.ooo:8080/61434342387/52400214/66177
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold-2 HD
 #http://xtv.ooo:8080/danyear12/am809100/109959
 #http://xtv.ooo:8080/213112/213112/109959
-http://xtv.ooo:8080/live/Jawad1994/03112371534/109959.ts
+http://xtv.ooo:8080/61434342387/52400214/109959
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD
 #http://xtv.ooo:8080/danyear12/am809100/66176
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66176.ts
+http://xtv.ooo:8080/61434342387/52400214/66176
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
 http://m3u.denver1769.fun/port/trex.php?id=280773|User-Agent=Denver1769
@@ -535,13 +545,14 @@ https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 #http://tv.cloudcdn.me/live.ts?channelId=214&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #http://xtv.ooo:8080/213112/213112/109958
-http://xtv.ooo:8080/live/Jawad1994/03112371534/109958.ts
+http://xtv.ooo:8080/61434342387/52400214/109958
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
 #http://xtv.ooo:8080/danyear12/am809100/66191
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66191.ts
+http://xtv.ooo:8080/61434342387/52400214/66191
+
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Amol Cinema
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
@@ -551,7 +562,8 @@ http://m3u.denver1769.fun/port/trex.php?id=959|User-Agent=Denver1769
 
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
 #http://xtv.ooo:8080/213112/213112/66174
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66174.ts
+http://xtv.ooo:8080/61434342387/52400214/66174
+
 
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
 #http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
@@ -559,12 +571,14 @@ http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 #http://xtv.ooo:8080/213112/213112/66179
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66179.ts
+http://xtv.ooo:8080/61434342387/52400214/66179
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 #http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 #http://xtv.ooo:8080/213112/213112/66189
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66189.ts
+http://xtv.ooo:8080/61434342387/52400214/66189
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
@@ -589,11 +603,13 @@ https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 #http://xtv.ooo:8080/danyear12/am809100/66213
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66213.ts
+http://xtv.ooo:8080/61434342387/52400214/66213
+
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies Select HD
 #http://xtv.ooo:8080/danyear12/am809100/66215
-http://xtv.ooo:8080/live/Jawad1994/03112371534/66215.ts
+http://xtv.ooo:8080/61434342387/52400214/66215
+
 
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
 
@@ -616,12 +632,13 @@ http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 #http://103.120.172.74:4600
 #http://xtv.ooo:8080/live/danyear12/am809100/109987.ts
 #http://xtv.ooo:8080/213112/213112/109987
-http://xtv.ooo:8080/live/Jawad1994/03112371534/109987.ts
+http://xtv.ooo:8080/61434342387/52400214/109987
+
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2 
 #https://criccoder.pages.dev/astro.m3u8
 #http://xtv.ooo:8080/213112/213112/346373
-http://xtv.ooo:8080/live/Jawad1994/03112371534/346373.ts
+http://xtv.ooo:8080/61434342387/52400214/346373
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
@@ -661,7 +678,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://38.96.178.201/live/GaziTV/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
-http://xtv.ooo:8080/live/Jawad1994/03112371534/245901.ts
+http://xtv.ooo:8080/61434342387/52400214/245901
+
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-3
 
@@ -671,7 +689,7 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/245901.ts
 #http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 #https://www.tbn24.com/api/video/4028_0.m3u8
 #http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167575.ts
+http://xtv.ooo:8080/61434342387/52400214/167575
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
@@ -685,29 +703,27 @@ http://m3u.denver1769.fun/port/trex.php?id=155968|User-Agent=Denver1769
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220063.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 #http://xtv.ooo:8080/live/danyear12/am809100/109988.ts
-http://xtv.ooo:8080/live/Jawad1994/03112371534/109988.ts
+http://xtv.ooo:8080/61434342387/52400214/109988
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 #http://xtv.ooo:8080/global/global/167576
 #http://172.16.88.30:18190/starsports2/tracks-v1a1/mono.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/167576
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167576.ts
-
+http://xtv.ooo:8080/61434342387/52400214/167576
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",Star Sports 3
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167577.m3u8
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167577.m3u8
 #http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/167577
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167577.ts
-
+http://xtv.ooo:8080/61434342387/52400214/167577
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167578.ts
+http://xtv.ooo:8080/61434342387/52400214/167578
+
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 
@@ -715,27 +731,28 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/167578.ts
 
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
 #http://xtv.ooo:8080/danyear12/am809100/167579
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167579.ts
+http://xtv.ooo:8080/61434342387/52400214/167579
 
 
 #EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="SPORTS",Sports-18
 #http://103.120.172.74:5500
 #http://tv.cloudcdn.me/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://xtv.ooo:8080/danyear12/am809100/382205
-http://xtv.ooo:8080/live/Jawad1994/03112371534/382205.ts
+http://xtv.ooo:8080/61434342387/52400214/382205
+
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
 #http://xtv.ooo:8080/global/global/167570
 #http://tv.cloudcdn.me/live.ts?channelId=289&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://xtv.ooo:8080/danyear12/am809100/167570
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167570.ts
+http://xtv.ooo:8080/61434342387/52400214/167570
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
 #http://103.120.172.74:4800
 #http://172.17.50.112/live/antbd1001/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=290&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://103.190.85.38/hls/sony10.m3u8
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167571.ts
+http://xtv.ooo:8080/61434342387/52400214/167571
 
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
@@ -743,14 +760,14 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/167571.ts
 #http://tv.cloudcdn.me/live.ts?channelId=291&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://xtv.ooo:8080/global/global/167572
 #http://xtv.ooo:8080/danyear12/am809100/167572
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167572.ts
-
+http://xtv.ooo:8080/61434342387/52400214/167572
 
 #EXTINF:-141 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="SPORTS",Sony Sports-4
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167595.m3u8
 #http://xtv.ooo:8080/global/global/167595
 #http://xtv.ooo:8080/danyear12/am809100/167595
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167595.ts
+http://xtv.ooo:8080/61434342387/52400214/167595
+
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 SD
 http://172.19.178.49:18190/sonysportsten5/tracks-v1/index.fmp4.m3u8?token=4b991ebc7ccba475354228164849b4e38e7db7eb-ea5083b55ddb1908379b3b08381a5401-1746629326-1746618526
@@ -758,8 +775,7 @@ http://172.19.178.49:18190/sonysportsten5/tracks-v1/index.fmp4.m3u8?token=4b991e
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
 #http://tv.cloudcdn.me/live.ts?channelId=105350&uid=16068&deviceMac=00:1A:79:ED:10:29
 #http://xtv.ooo:8080/danyear12/am809100/167580
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167580.ts
-
+http://xtv.ooo:8080/61434342387/52400214/167580
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 http://xtv.ooo:8080/danyear12/am809100/167567
@@ -785,7 +801,7 @@ http://filex.tv:8080/live/Multicity/1234/52106.ts
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
 #http://xtv.ooo:8080/danyear12/am809100/167587
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167587.ts
+http://xtv.ooo:8080/61434342387/52400214/167587
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #http://121.91.61.106:8000/play/a03o/index.m3u8
@@ -800,13 +816,13 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/804.ts
 #http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #http://xtv.ooo:8080/live/danyear12/am809100/167568.ts
 #http://xtv.ooo:8080/danyear12/am809100/167568
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167568.ts
+http://xtv.ooo:8080/61434342387/52400214/167568
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #http://tv.cloudcdn.me/live.ts?channelId=302&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://xtv.ooo:8080/live/danyear12/am809100/167583.ts
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167583.ts
+http://xtv.ooo:8080/61434342387/52400214/167583
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 #http://xtv.ooo:8080/live/Jawad1994/03112371534/347332.ts
@@ -815,7 +831,7 @@ http://filex.tv:8080/live/Multicity/1234/52109.ts
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
 #http://xtv.ooo:8080/danyear12/am809100/167593
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167593.ts
+http://xtv.ooo:8080/61434342387/52400214/167593
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167581.m3u8
@@ -830,13 +846,14 @@ http://m3u.denver1769.fun/port/trex.php?id=315181|User-Agent=Denver1769
 #http://xtv.ooo:8080/global/global/371469
 #http://xtv.ooo:8080/live/danyear12/am809100/371469.ts
 #http://xtv.ooo:8080/danyear12/am809100/371469
-http://xtv.ooo:8080/live/Jawad1994/03112371534/371469.ts
+http://xtv.ooo:8080/61434342387/52400214/371469
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",CricLife-2
 #http://xtv.ooo:8080/global/global/371470
 #http://xtv.ooo:8080/live/danyear12/am809100/371470.ts
 #http://xtv.ooo:8080/danyear12/am809100/371470
-http://xtv.ooo:8080/live/Jawad1994/03112371534/371470.ts
+http://xtv.ooo:8080/61434342387/52400214/371470
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
 #http://xtv.ooo:8080/global/global/167594
@@ -848,8 +865,7 @@ https://wowza1.leisertv.com/live/skysportscrickethd.stream/chunklist_w140556680.
 #https://crichd.iptvbd.xyz/m3u8.php/skyscric.m3u8
 #http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/167594
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167594.ts
-
+http://xtv.ooo:8080/61434342387/52400214/167594
 
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
@@ -862,14 +878,15 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/167594.ts
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Football
 #http://tv.cloudcdn.me/live.ts?channelId=308&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://xtv.ooo:8080/danyear12/am809100/346241
-http://xtv.ooo:8080/live/Jawad1994/03112371534/346241.ts
+http://xtv.ooo:8080/61434342387/52400214/346241
+
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-1
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
 #http://xtv.ooo:8080/danyear12/am809100/167592
-http://xtv.ooo:8080/live/Jawad1994/03112371534/167592.ts
+http://xtv.ooo:8080/61434342387/52400214/167592
 
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
@@ -879,12 +896,14 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/167592.ts
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
 #http://xtv.ooo:8080/live/danyear12/am809100/238479.ts
 #http://xtv.ooo:8080/danyear12/am809100/238479
-http://xtv.ooo:8080/live/Jawad1994/03112371534/238479.ts
+http://xtv.ooo:8080/61434342387/52400214/238479
+
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
 #http://xtv.ooo:8080/live/danyear12/am809100/238480.ts
 #http://xtv.ooo:8080/danyear12/am809100/238480
-http://xtv.ooo:8080/live/Jawad1994/03112371534/238480.ts
+http://xtv.ooo:8080/61434342387/52400214/238480
+
 
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+
 
@@ -910,16 +929,20 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/238480.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://xtv.ooo:8080/danyear12/am809100/381330
-http://xtv.ooo:8080/live/Jawad1994/03112371534/381330.ts
+http://xtv.ooo:8080/61434342387/52400214/381330
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-http://xtv.ooo:8080/live/Jawad1994/03112371534/381331.ts
+http://xtv.ooo:8080/61434342387/52400214/381331
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-http://xtv.ooo:8080/live/Jawad1994/03112371534/381332.ts
+http://xtv.ooo:8080/61434342387/52400214/381332
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-http://xtv.ooo:8080/live/Jawad1994/03112371534/381335.ts
+http://xtv.ooo:8080/61434342387/52400214/381335
+
 
 
 

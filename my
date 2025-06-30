@@ -479,7 +479,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://m3u.denver1769.fun/port/trex.php?id=156120|User-Agent=Denver1769
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Mtv
-http://m3u.denver1769.fun/port/trex.php?id=280760|User-Agent=Denver1769
+http://mytv-extra.com:88/live/974653543656/MeaX2XAEDMTiPrD/187154.m3u8
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
@@ -494,7 +494,9 @@ https://sabliveyupp.akamaized.net/mastii/mastii_poc_800k.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Music
+
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",PTC Hits
+http://udigitalott.ridsys.in/riptv/live/stream37/index.m3u8
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/7A5PG3o.jpg" group-title="MUSIC", Mon Tv Bangla 
 
@@ -509,7 +511,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://cdn-2.pishow.tv/live/228/228_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Colors
-
+http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 
@@ -519,13 +521,15 @@ https://cdn-2.pishow.tv/live/228/228_1.m3u8
 #http://xtv.ooo:8080/global/global/109952
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208482_und=208000.m3u8
 #http://xtv.ooo:8080/danyear12/am809100/109952
-http://xott.live:8080/17871787/17871787/109952
+#http://xott.live:8080/17871787/17871787/109952
+http://195.181.169.162/AND_TV_HD/index.m3u8?token=test
 
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
 #http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
 #http://humsab.xyz/IN_PICURES/tracks-v1a1/mono.m3u8
 #http://xtv.ooo:8080/213112/213112/66181
 http://xott.live:8080/17871787/17871787/66181
+http://195.181.169.162/AND_PICTURES_HD/index.m3u8?token=test
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Thrills
 #http://xtv.ooo:8080/danyear12/am809100/221258
@@ -547,11 +551,11 @@ http://xott.live:8080/17871787/17871787/109959
 http://xott.live:8080/17871787/17871787/66176
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
-http://m3u.denver1769.fun/port/trex.php?id=280773|User-Agent=Denver1769
+http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee Bolly Wood HD
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee One
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/1c1ecdc6-be34-4ea2-bde9-8e30209e896b/2.m3u8
@@ -559,7 +563,8 @@ https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 #http://tv.cloudcdn.me/live.ts?channelId=214&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #http://xtv.ooo:8080/213112/213112/109958
-http://xott.live:8080/17871787/17871787/109958
+#http://xott.live:8080/17871787/17871787/109958
+http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 
@@ -571,11 +576,13 @@ http://xott.live:8080/17871787/17871787/66191
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
-http://iptvtree.net:8080/F25093/29838750/4867
+#http://iptvtree.net:8080/F25093/29838750/4867
+http://195.181.169.162/SONY_HD/index.m3u8?token=test
 
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi",SONY SAB
 #http://xtv.ooo:8080/213112/213112/66174
-http://xott.live:8080/17871787/17871787/66174
+#http://xott.live:8080/17871787/17871787/66174
+http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test
 
 #EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
 #http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
@@ -583,7 +590,8 @@ http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 #http://xtv.ooo:8080/213112/213112/66179
-http://xott.live:8080/17871787/17871787/66179
+#http://xott.live:8080/17871787/17871787/66179
+http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 #http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
@@ -602,10 +610,7 @@ http://xott.live:8080/17871787/17871787/66189
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movie",Sony Pix
-#http://212.102.34.8:9080/SonyPixHD/video.m3u8
-#http://103.122.74.6:8888/hls/SONY.PIX.HD.m3u8
-http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
-
+http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Lotus
 https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
@@ -627,6 +632,7 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English Movie", MNX-HD
+https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movie",STAR WORLD HD
 
@@ -689,8 +695,7 @@ http://xott.live:8080/17871787/17871787/245901
 #http://172.17.50.112/live/fifa2022/index.m3u8
 #http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-#http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts
-https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=0MgUiPupGPhbR7tO5bUT_g&expires=1751201567
+http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
@@ -726,8 +731,10 @@ http://xott.live:8080/17871787/17871787/167577
 http://xott.live:8080/17871787/17871787/167578
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
+http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=155972&extension=ts&play_token=JD4P7ykzYY
 
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
+http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&extension=ts&play_token=LNvo1XOyv5
 
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
 #http://xtv.ooo:8080/danyear12/am809100/167579
@@ -813,7 +820,7 @@ http://175.107.244.52:4456/play/a06z/index.m3u8
 #http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #http://tv.cloudcdn.me/live.ts?channelId=302&uid=14505&deviceMac=00:1A:79:A7:53:75
 #http://xott.live:8080/17871787/17871787/167583
-https://off1.gogohaalmal.com:1686/hls/willowusa.m3u8?md5=4y1_snBLS-XKUlhMxiZGDw&expires=1751202735
+http://38.96.178.201/live/WILLOWTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 #http://xtv.ooo:8080/live/Jawad1994/03112371534/347332.ts
@@ -842,11 +849,13 @@ http://xott.live:8080/17871787/17871787/371470
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
 #http://xtv.ooo:8080/global/global/167594
-http://xott.live:8080/17871787/17871787/167594
+#http://xott.live:8080/17871787/17871787/167594
+http://muka03.wanicelife.com:8880/live/D12m0405/88855553/2879.ts
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 #http://xtv.ooo:8080/global/global/220064
-http://xott.live:8080/17871787/17871787/220064
+#http://xott.live:8080/17871787/17871787/220064
+http://astv.life:8080/anil@123/anil@123/208260
 
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
@@ -870,6 +879,7 @@ http://xott.live:8080/17871787/17871787/346241
 http://xott.live:8080/17871787/17871787/167592
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
+http://astv.life:8080/anil@123/anil@123/208258
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
 
@@ -907,10 +917,13 @@ http://xott.live:8080/17871787/17871787/238480
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://xtv.ooo:8080/danyear12/am809100/381330
-http://xott.live:8080/17871787/17871787/381330
+#http://xott.live:8080/17871787/17871787/381330
+#https://deneme123.parisiptv1.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10040
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-http://xott.live:8080/17871787/17871787/381331
+#http://xott.live:8080/17871787/17871787/381331
+https://deneme123.parisiptv1.workers.dev/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 http://xott.live:8080/17871787/17871787/381332
@@ -925,6 +938,7 @@ http://xott.live:8080/17871787/17871787/381335
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",RTV Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sport Italia So
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/chunklist_b4096000.m3u8

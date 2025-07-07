@@ -36,7 +36,7 @@ http://38.96.178.201/live/Ekattor/index.m3u8
 http://38.96.178.201/live/EkhonTV/index.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
-
+https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 #http://xtv.ooo:8080/213112/213112/245916
@@ -65,7 +65,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #http://xtv.ooo:8080/danyear12/am809100/245905
 #http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
-http://xtv.ooo:8080/live/03353290992/03353290992/245905.ts
+#http://xtv.ooo:8080/live/03353290992/03353290992/245905.ts
+https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #http://xtv.ooo:8080/213112/213112/245909
@@ -81,16 +82,18 @@ http://38.96.178.201/live/ATNBangla/index.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 #http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
-#http://38.96.178.201/live/BanglaVision/index.m3u8
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
+http://38.96.178.201/live/BanglaVision/index.m3u8
+
 
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 #http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
-http://38.96.178.201/live/SATV/index.m3u8
+#http://38.96.178.201/live/SATV/index.m3u8
+https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8

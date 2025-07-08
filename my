@@ -60,7 +60,8 @@ http://38.96.178.201/live/NEWS24/index.m3u8
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
 #http://xtv.ooo:8080/213112/213112/245914
 #http://kst.moonplex.net:8080/CH15/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 #http://xtv.ooo:8080/danyear12/am809100/245905
@@ -102,10 +103,9 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
 #https://ekusheyserver.com/etvlivesn.m3u8
-#http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #http://xtv.ooo:8080/213112/213112/245937
 #http://xtv.ooo:8080/live/Amjadsc/nwl1234/245937.ts
-https://bd.yflix.top/live.php?id=b3f0df76-15ba-4ede-a7de-bbaaf23a630e
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-17 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",Channel I
 #http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3

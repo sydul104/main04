@@ -23,10 +23,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
 
+
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://xtv.ooo:8080/danyear12/am809100/245915
 #http://xtv.ooo:8080/213112/213112/245915
-http://38.96.178.201/live/Ekattor/index.m3u8
+#http://38.96.178.201/live/Ekattor/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-2
 
@@ -54,8 +56,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
 #http://xtv.ooo:8080/danyear12/am809100/245903
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
-http://38.96.178.201/live/NEWS24/index.m3u8
+#http://38.96.178.201/live/NEWS24/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
 #http://xtv.ooo:8080/213112/213112/245914
@@ -82,7 +84,8 @@ http://38.96.178.201/live/ATNBangla/index.m3u8
 #http://38.96.178.201/live/NTV/index.m3u8
 #https://ayna-three.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
-http://38.96.178.201/live/NTV/index.m3u8
+#http://38.96.178.201/live/NTV/index.m3u8
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
@@ -90,8 +93,8 @@ https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 #http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
-http://38.96.178.201/live/BanglaVision/index.m3u8
-
+#http://38.96.178.201/live/BanglaVision/index.m3u8
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 #http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
@@ -122,6 +125,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #https://entezeetv.fun/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
@@ -131,7 +135,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://38.96.178.201/live/Channel9/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS", GAZI TV
-http://38.96.178.201/live/GaziTV/index.m3u8
+#http://38.96.178.201/live/GaziTV/index.m3u8
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 
@@ -352,7 +357,8 @@ http://xtv.ooo:8080/live/03353290992/03353290992/109975.ts
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-http://38.96.178.201/live/STARJALSHA/index.m3u8
+#http://38.96.178.201/live/STARJALSHA/index.m3u8
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha SD
 
@@ -389,7 +395,8 @@ http://xtv.ooo:8080/live/03353290992/03353290992/206293.ts
 #https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 #http://xtv.ooo:8080/213112/213112/245895
 #https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
-http://38.96.178.201/live/ColorsBangla/index.m3u8
+#http://38.96.178.201/live/ColorsBangla/index.m3u8
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -688,7 +695,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://172.17.50.112/live/antbd1002/index.m3u8
 #http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-http://38.96.178.201/live/TSports/index.m3u8
+#http://38.96.178.201/live/TSports/index.m3u8
+https://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://113.212.111.246:8080/hls/col12.m3u8
@@ -696,7 +704,8 @@ http://38.96.178.201/live/TSports/index.m3u8
 #http://xott.live:8080/17871787/17871787/167590
 #https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 #https://live.tsports.com/?bitrate=180000&channel=tsports_live_1_160&res=160
-http://116.204.149.16/t_sports/index.m3u8
+#http://116.204.149.16/t_sports/index.m3u8
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.96.235.18:8080/sports1/index.m3u8

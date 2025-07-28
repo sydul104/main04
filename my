@@ -243,6 +243,7 @@ https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
+https://tv.bongoflix.top/toffee/live.php?id=77e72f2ba472&e=.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 
@@ -329,6 +330,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
+https://tv.bongoflix.top/toffee/live.php?id=7e00fee81848&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",TARA BANGLA CINEMA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -660,9 +662,10 @@ http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&ext
 #EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="SPORTS",Sports-18
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD
+https://tv.bongoflix.top/toffee/live.php?id=43dcec1011e7&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
-
+https://tv.bongoflix.top/toffee/live.php?id=abc6677968ef&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
 
@@ -671,6 +674,7 @@ http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&ext
 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 SD
+https://tv.bongoflix.top/toffee/live.php?id=fd6de8bd1666&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
 

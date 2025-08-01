@@ -640,7 +640,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220063.m3u8
 #http://41.205.93.154/STARSPORTS1/index.m3u8
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
+#https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
+https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
 #http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
@@ -807,12 +808,13 @@ http://xtv.ooo:8080/live/03353290992/03353290992/238479.ts
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
-
+https://events3.liveboxpro.com/event/91.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
+https://events3.liveboxpro.com/event/92.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-
+https://events3.liveboxpro.com/event/93.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 

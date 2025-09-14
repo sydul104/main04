@@ -287,11 +287,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
+http://89.187.189.98/BBCEARTHHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8
+#https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8
+http://89.187.189.98/ANIMALPLANETHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
@@ -593,6 +595,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now
 http://45.159.74.22/Kinoseriya/mono.m3u8
 
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
+http://93.184.10.248/MBCBollywood/index.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
 
@@ -767,6 +770,7 @@ http://filex.tv:8080/live/Multicity/1234/52109.ts
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 
@@ -873,7 +877,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TNT-4
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", ERT Sports
-
+https://live-1-201.uma.media/stream/1054/HLS/ntvplus/6waJsh3SdP-FJKQVGp7UzA/1757839306/eyJzZXNzaW9uSWQiOiJZblJ3VFRreGFFcERkMVZEVldOWGFpOTFZbk5FUlVGak1XZEVhMVpvV1dwcGVGaHFNM1J2V1RseEsxbHZkRVV6YjFGeGN6WnVheXRJWkZwbFRVSjNPRGwyYlRCUEt5OWhabVoxZFRoR1dqTnFTakp2U1djOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1054-288p.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Dubai Sports 1
 https://tvsen6.aynaott.com/AbuDhabiSports1/index.m3u8

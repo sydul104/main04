@@ -188,7 +188,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #https://app.ncare.live/streams/makkahtv.stream/playlist.m3u8
 #https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
-#http://xtv.ooo:8080/213112/213112/4
+#http://103.179.182.117:6768/hls/80/80.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina live
@@ -228,6 +228,7 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png" group-title="Kids", Cartoon Network English
 https://app.hughag.store/api/68b0f4e13e/playlist.m3u8
+http://103.179.182.117:6768/hls/2/2.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Hungama Kids
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
@@ -240,12 +241,13 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
+http://103.179.182.117:6768/hls/65/65.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
-
+http://103.179.182.117:6768/hls/14/14.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 
@@ -269,7 +271,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
 
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+http://103.179.182.117:6768/hls/75/75.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://89.187.189.98/BBCEARTHHD/index.m3u8
@@ -278,7 +281,9 @@ http://89.187.189.98/BBCEARTHHD/index.m3u8
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8
+#http://103.179.182.117:6768/hls/12/12.m3u8
 http://89.187.189.98/ANIMALPLANETHD/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title="Documentary",Nasa tv
@@ -525,6 +530,7 @@ https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/
 http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
+http://103.179.182.117:6768/hls/32/32.m3u8
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
 
@@ -574,6 +580,9 @@ http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png", Movies Now
 http://89.187.189.98/MOVIESNOWHD/index.m3u8
 
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png", AXN
+http://103.179.182.117:6768/hls/64/64.m3u8
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Lotus
 https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
 
@@ -588,14 +597,16 @@ http://89.187.189.98/STARMOVIESHD/index.m3u8
 http://45.159.74.22/Kinoseriya/mono.m3u8
 
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
-http://93.184.10.248/MBCBollywood/index.m3u8
+http://103.179.182.117:6768/hls/27/27.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
+http://93.184.10.248/MBCBollywood/index.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English Movie", MNX-HD
+http://103.179.182.117:6768/hls/26/26.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movie",STAR WORLD HD
 
@@ -607,13 +618,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/sungo546/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
 #http://103.120.172.74:4600
-http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+http://103.179.182.117:6768/hls/66/66.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2 
-http://46.105.71.222:8080/btsport2/index.m3u8
+http://103.179.182.117:6768/hls/88/88.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
-http://46.105.71.222:8080/btsport3/index.m3u8
+http://103.179.182.117:6768/hls/62/62.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
@@ -622,30 +633,33 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 http://app-plus.live/live/4qoq1y7yu4/j4wtif2te5/280825.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
+http://103.179.182.117:6768/hls/2/2.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="SPORTS", Live Sports-9
+
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="SPORTS",Live Sports-10
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://172.17.50.112/live/antbd1002/index.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
-https://tvsen5.aynaott.com/tsports/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-#http://xott.live:8080/17871787/17871787/167590
-http://103.15.140.138/tsports/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
+#https://tvsen5.aynaott.com/tsports/index.m3u8
 #http://103.96.235.18:8080/sports1/index.m3u8
 #http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
 #https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8
+#http://xott.live:8080/17871787/17871787/167590
+#http://103.15.140.138/tsports/index.m3u8
 #https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
+
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts
@@ -845,7 +859,7 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",FIFA+
-
+http://103.179.182.117:6768/hls/25/25.m3u8
 
 
 
@@ -855,7 +869,11 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",TruePremier_1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",TruePremier_2
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",TruePremier_3
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",VTC-1
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Video
+http://103.179.182.117:6768/hls/94/94.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TRT
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",FS-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",MAT4

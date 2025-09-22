@@ -222,6 +222,7 @@ http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Rongeen tv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids", Sony YAY
+https://live.dinesh29.com.np/stream/jiotv/sonicbangla/stream_0.m3u8?uid=1629808248
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
@@ -300,19 +301,23 @@ http://89.187.189.98/ANIMALPLANETHD/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha SD
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
-https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
+#https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
+#https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/stream_0.m3u8?uid=3443014649
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=120&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://xtv.ooo:8080/danyear12/am809100/245893
@@ -328,6 +333,7 @@ https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #http://xtv.ooo:8080/213112/213112/245895
 #https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 #http://38.96.178.201/live/ColorsBangla/index.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglasd/stream_0.m3u8?uid=3522278747
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
@@ -335,7 +341,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #https://cdn-4.pishow.tv/live/1499/master.m3u8
-http://103.122.252.100:8080/SUN-BANGLA/index.m3u8
+#http://103.122.252.100:8080/SUN-BANGLA/index.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/stream_0.m3u8?uid=827691936
 
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
 #https://app.hughag.store/api/b6a720edea/playlist.m3u8
@@ -413,7 +420,8 @@ https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #http://xtv.ooo:8080/213112/213112/245933
 #http://38.96.178.201/live/SangeetBangla/index.m3u8
 #https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
-https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+#https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/sangeetbangla/stream_0.m3u8?uid=3571565213
 
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8

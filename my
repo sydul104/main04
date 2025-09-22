@@ -646,14 +646,18 @@ http://app-plus.live/live/4qoq1y7yu4/j4wtif2te5/280825.m3u8
 http://103.179.182.117:6768/hls/2/2.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7 (Asia Cup)
-http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276740&extension=.m3u8
+#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276740&extension=.m3u8
+https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8 (Asia Cup)
+#https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="SPORTS", Live Sports-9
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="SPORTS", Live Sports-9 (Asia Cup)
+https://dish.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="SPORTS",Live Sports-10
-
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="SPORTS",Live Sports-10 (Asia Cup)
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
@@ -724,6 +728,7 @@ http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276735&
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
+#http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
@@ -743,7 +748,8 @@ http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276728&
 #http://xtv.ooo:8080/danyear12/am809100/167567
 #http://38.96.178.201/live/PTVSports/index.m3u8
 #http://175.107.244.52:4457/play/a08g/index.m3u8
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#https://tvsen5.aynaott.com/PtvSports/index.m3u8
+http://66.102.120.18:8000/play/a04w/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
@@ -816,6 +822,7 @@ http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
+http://b1g.ooo:80/Arun/123456/299944
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
 

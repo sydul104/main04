@@ -657,7 +657,8 @@ http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276740&
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 
@@ -777,6 +778,13 @@ http://filex.tv:8080/live/Multicity/1234/52109.ts
 #https://tvsen5.aynaott.com/willowhd/index.m3u8
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-1
+http://178.33.239.54:8080/509/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-2
+http://178.33.239.54:8080/510/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-3
+http://178.33.239.54:8080/511/index.m3u8
+
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
@@ -789,6 +797,7 @@ http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",CricLife-2
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
+http://178.33.239.54:8080/508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658

@@ -522,6 +522,7 @@ http://xott.live:8080/17871787/17871787/66176
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3176
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
+#http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1364.m3u8
 http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee Bolly Wood HD
@@ -562,7 +563,8 @@ http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test
 #http://xtv.ooo:8080/213112/213112/66179
 #http://xott.live:8080/17871787/17871787/66179
 #http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
-http://s5.alltvfree.com:8081/live/sonymax_480p/playlist.m3u8
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1366.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
@@ -643,7 +645,8 @@ http://app-plus.live/live/4qoq1y7yu4/j4wtif2te5/280825.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
 http://103.179.182.117:6768/hls/2/2.m3u8
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7 (Asia Cup)
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276740&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="SPORTS", Live Sports-8
 
@@ -653,14 +656,6 @@ http://103.179.182.117:6768/hls/2/2.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-#http://172.17.50.112/live/antbd1002/index.m3u8
-#http://38.96.178.201/live/TSports/index.m3u8
-#https://tvsen5.aynaott.com/tsports/index.m3u8
-#http://103.96.235.18:8080/sports1/index.m3u8
-#http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
-#https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8
-#http://xott.live:8080/17871787/17871787/167590
-#http://103.15.140.138/tsports/index.m3u8
 #https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
@@ -673,7 +668,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts
 #http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276731&extension=.m3u8
 #http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155968&extension=ts
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+#https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.120.172.74:4600
@@ -710,10 +706,10 @@ http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276733&
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 #http://xtv.ooo:8080/live/03353290992/03353290992/167578.ts
-https://tvsen6.aynaott.com/spsel1/index.m3u8
+#https://tvsen6.aynaott.com/spsel1/index.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
 #EXTINF:-136 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="SPORTS",Star Sports Select 2
@@ -736,9 +732,11 @@ http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&
 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 SD
-http://103.110.111.36:8081/live/spten5_720p/playlist.m3u8
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1367.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276728&extension=.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 #http://xtv.ooo:8080/danyear12/am809100/167567
@@ -746,10 +744,8 @@ http://103.110.111.36:8081/live/spten5_720p/playlist.m3u8
 #http://175.107.244.52:4457/play/a08g/index.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
-
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports-[2]
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
-
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
 #http://121.91.61.106:8000/play/a04h/index.m3u8
@@ -762,8 +758,7 @@ http://filex.tv:8080/live/Multicity/1234/52106.ts
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
-#https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
@@ -779,7 +774,8 @@ http://filex.tv:8080/live/Multicity/1234/52109.ts
 #http://xtv.ooo:8080/live/Jawad1994/03112371534/347332.ts
 #http://filex.tv:8080/live/Multicity/1234/52109.ts
 #http://filex.me:8080/444476/444476/52109
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+#https://tvsen5.aynaott.com/willowhd/index.m3u8
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b

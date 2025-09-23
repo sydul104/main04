@@ -806,11 +806,6 @@ http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v
 http://178.33.239.54:8080/508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket [2]
-http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
-
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
 
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Action
@@ -876,10 +871,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Raching.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",FIFA+
-http://103.179.182.117:6768/hls/25/25.m3u8
 
 
 
@@ -892,7 +885,6 @@ http://103.179.182.117:6768/hls/25/25.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Video
-http://103.179.182.117:6768/hls/94/94.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TRT
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",FS-1
@@ -906,27 +898,22 @@ http://103.179.182.117:6768/hls/94/94.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TNT-4
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", ERT Sports
-https://live-1-201.uma.media/stream/1054/HLS/ntvplus/6waJsh3SdP-FJKQVGp7UzA/1757839306/eyJzZXNzaW9uSWQiOiJZblJ3VFRreGFFcERkMVZEVldOWGFpOTFZbk5FUlVGak1XZEVhMVpvV1dwcGVGaHFNM1J2V1RseEsxbHZkRVV6YjFGeGN6WnVheXRJWkZwbFRVSjNPRGwyYlRCUEt5OWhabVoxZFRoR1dqTnFTakp2U1djOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1054-288p.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Dubai Sports 1
-https://tvsen6.aynaott.com/AbuDhabiSports1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Dubai Sports 2
-https://tvsen6.aynaott.com/AbuDhabiSports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="SPORTS",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" group-title="SPORTS",Ad Sports 2
-https://tvsen6.aynaott.com/BahrainSports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports3.jpg" group-title="SPORTS",Ad Sports 3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png",RO | DIGI SPORT 1 FHD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png",RO | DIGI SPORT 2 FHD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png",RO | DIGI SPORT 3 FHD
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png", Fitness tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png", Fitness 
 
 
 

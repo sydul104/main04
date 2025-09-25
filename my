@@ -588,7 +588,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 http://app-plus.live/live/4qoq1y7yu4/j4wtif2te5/280825.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3 (Asia Cup)
-http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276740&extension=.m3u8
+#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276740&extension=.m3u8
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 

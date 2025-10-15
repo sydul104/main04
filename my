@@ -216,11 +216,12 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
 
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1533319
@@ -581,6 +582,7 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English Movie", MNX-HD
+https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movie",STAR WORLD HD
 
@@ -594,8 +596,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/sungo546/chunks.m3u8
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1139
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 
@@ -621,7 +625,7 @@ http://116.204.149.16/t_sports/index.m3u8
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
-
+http://147.93.154.65/Bein3/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts
@@ -723,7 +727,8 @@ http://filex.tv:8080/live/Multicity/1234/52106.ts
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 #https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488088
+#http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488088
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 
@@ -745,9 +750,11 @@ http://filex.tv:8080/live/Multicity/1234/52109.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-3
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
+#http://iptvtree.net:8080/F28312/cc1dc138/157565
 http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488091
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png", RTA SPORTS

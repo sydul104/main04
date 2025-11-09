@@ -119,7 +119,8 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BANGLA", Me-tv
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BANGLA", Vukta tv
+#EXTINF:-1 tvg-logo=""group-title="BANGLA",Jankhar tv
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
 #EXTINF:-37 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
 #https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8

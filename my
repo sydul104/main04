@@ -369,7 +369,8 @@ https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-78 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="MUSIC",GAAN BANGLA HD
 https://tplay.live/originals/bengali-beats/index.m3u8
 
-#EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
+#EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC", Benguli Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
 
@@ -595,8 +596,10 @@ http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
+https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
+https://bd-mc-fdlive.fancode.com/mumbai/130955_english_hls_307be9070145264_1adfreeta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 
@@ -621,10 +624,11 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
 #https://anywhere.pwisetthon.com/http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #http://103.135.132.54:805/tsport/index.m3u8
 #http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-#https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1762336598&token=8d7da691b8805eebaf929a5e7dd50d39&u=5448cf91-5746-4e78-a357-d45dca5c1ab9
-http://103.135.132.54:805/tsport/index.m3u8
+#http://103.135.132.54:805/tsport/index.m3u8
+https://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
+https://mirajlive.short.gy/free_iptv_mirajliv.m3u
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts
@@ -705,6 +709,7 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD-2
 http://filex.tv:8080/live/Multicity/1234/52109.ts

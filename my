@@ -930,7 +930,29 @@ http://10.20.30.30:8989/StarSportSL_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live-7
 http://10.20.30.30:8989/WILLOWHD/tracks-v1a1/mono.ts.m3u8
 
-
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/wxttyz6M/Hindi-Movies.jpg",Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/Dz2FqrL5/Bangla-Movies.jpg",Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/gj6PYNbc/Dubbed-Movies.jpg",Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/RZ146s6N/Bangla-Kirton.jpg",Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/FRz46hPL/Bantulthe-Great.jpg",Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/kD3PDK7Q/Gopal-Var.jpg",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/J4ZGxQHW/Motu-Patlu.jpg",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/L8ShbZjg/Shinchan.jpg",Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/pTSHb371/Doraemon.jpg",Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/8kq7LY5H/Hindi-Songs.jpg",Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/cJXWTvcW/Bangla-Songs.jpg",Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/sangeetbhojpuri/stream_0.m3u8
 
 
 

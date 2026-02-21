@@ -1,0 +1,116 @@
+name: Update IPTV Playlist
+
+on:
+  # Run automatically every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      validate_urls:
+        description: 'Validate stream URLs (slower)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Run playlist updater
+        id: update
+        run: |
+          echo "Running playlist updater..."
+          
+          # Determine validation flag
+          VALIDATE_FLAG=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.validate_urls }}" = "true" ]; then
+            VALIDATE_FLAG="--validate"
+            echo "URL validation: ENABLED"
+          else
+            VALIDATE_FLAG="--no-validate"
+            echo "URL validation: DISABLED (use manual trigger to enable)"
+          fi
+          
+          # Run the updater
+          python scripts/update_playlist.py \
+            --playlist my \
+            --upstream \
+              "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my" \
+              "https://raw.githubusercontent.com/musfiqeee/iptv-m3u-bot/main/output/all.m3u" \
+            $VALIDATE_FLAG
+          
+          # Capture exit code
+          UPDATE_EXIT_CODE=$?
+          echo "exit_code=$UPDATE_EXIT_CODE" >> $GITHUB_OUTPUT
+          
+          if [ $UPDATE_EXIT_CODE -eq 0 ]; then
+            echo "✓ Playlist updated successfully"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "ℹ No changes detected"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Check for changes
+        id: git_status
+        run: |
+          git diff --exit-code my || echo "changes_detected=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.git_status.outputs.changes_detected == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Get current date for commit message
+          CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
+          
+          # Add and commit
+          git add my
+          git commit -m "🔄 Auto-update playlist - $CURRENT_DATE" \
+                     -m "Updated by GitHub Actions" \
+                     -m "Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          
+          # Push changes
+          git push
+          
+          echo "✓ Changes committed and pushed"
+      
+      - name: Summary
+        if: always()
+        run: |
+          echo "## IPTV Playlist Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ steps.git_status.outputs.changes_detected }}" = "true" ]; then
+            echo "✅ **Playlist updated and committed**" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ **No changes detected - playlist is up to date**" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Details" >> $GITHUB_STEP_SUMMARY
+          echo "- Trigger: \`${{ github.event_name }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Branch: \`${{ github.ref_name }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Commit: \`${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "- URL Validation: \`${{ inputs.validate_urls }}\`" >> $GITHUB_STEP_SUMMARY
+          fi

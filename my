@@ -237,9 +237,14 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
-http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+http://103.229.254.25:7001/play/a03g/index.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
+http://103.229.254.25:7001/play/a03h/index.m3u8
+
+#EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Investigetion
+http://103.229.254.25:7001/play/a03c/index.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Outside tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8

@@ -360,7 +360,8 @@ http://103.161.153.165:8000/play/a01e/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=120&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
 #https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-http://103.175.242.10:8080/zeebangla/index.m3u8
+#http://103.175.242.10:8080/zeebangla/index.m3u8
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla SD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
@@ -566,7 +567,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/157081.ts
 http://103.229.254.25:7001/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/zeetv/tracks-v1a1/mono.m3u8
+#https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/zeetv/tracks-v1a1/mono.m3u8
+http://103.161.153.165:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee Bolly Wood HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
@@ -574,11 +576,11 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee One
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
-#https://padmaonline.duckdns.org:8088/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-http://103.99.249.139/zeecinema/index.m3u8
+http://103.161.153.165:8000/play/a00q/index.m3u8
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 http://110.39.27.47:8001/play/a00q/index.m3u8
+
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
 
@@ -673,6 +675,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/196347.ts
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
+http://103.161.153.165:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="SPORTS", Live Sports-7 
 
@@ -694,7 +697,8 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 #http://204.188.207.74:6061/starsports1_1005/index.m3u8?token=dontknow
 #http://103.175.73.12:8080/live/65/65_0.m3u8
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+#https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+http://103.161.153.165:8000/play/stp1h/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
 #http://103.182.170.32:8888/play/a040
@@ -705,13 +709,15 @@ http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 http://103.229.254.25:7001/play/a0dn/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
-http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+#http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+http://103.161.153.165:8000/play/stp2h/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
 http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",Star Sports 3
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
+http://103.161.153.165:8000/play/a060/index.m3u8
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="SPORTS",Star Sports Select 1
 http://103.182.170.32:8888/play/a045
@@ -765,6 +771,7 @@ http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://103.161.153.165:8000/play/willowcrichd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD-2
 

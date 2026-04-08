@@ -52,8 +52,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA",Ekon tv
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-http://103.161.153.165:8000/play/a030/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -61,7 +60,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
-http://103.161.153.165:8000/play/atnbd/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
 #http://103.175.242.10:8080/ntv/index.m3u8
@@ -106,7 +105,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #http://116.204.149.16/maasranga/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
@@ -131,7 +130,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="BANGLA",Mohona Tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Bijoy tv
-http://103.229.254.25:7001/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Nexus TV HD
 
@@ -739,7 +737,8 @@ http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD
 #https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
 #http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
-http://103.229.254.25:7001/play/a0ef/index.m3u8
+#http://103.229.254.25:7001/play/a0ef/index.m3u8
+https://proxyserver2.nurmd2006-official.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD
 #http://103.182.170.32:8888/play/a048

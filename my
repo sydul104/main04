@@ -620,7 +620,8 @@ https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#http://151.80.18.177:86/Eurosport_HD/index.m3u8
+https://cdn-tt.pages.dev/ch5.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 

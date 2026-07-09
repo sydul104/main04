@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 #http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
 http://103.151.60.162:2121/play/a013/index.m3u8
@@ -106,7 +107,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
-
+http://103.163.117.83:8063/ch8/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
@@ -668,7 +669,8 @@ http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-http://103.165.93.31:8095/unt-s/video.m3u8
+#http://103.165.93.31:8095/unt-s/video.m3u8
+http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2505/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 #http://starhub.pro/live/farhat-3379/67897-913379/744517.ts

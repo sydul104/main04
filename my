@@ -15,7 +15,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
